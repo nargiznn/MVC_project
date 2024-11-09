@@ -4,10 +4,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AspNet_project.Data
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext: DbContext
     {
-        //IdentityDbContext<AppUser>
-        //public AppDbContext(DbContextOptions<AppDbContext> options): base(options) { }
-      
+        public DbSet<Slider> Sliders { get; set; }
+        public DbSet<SliderWords> SliderWords { get; set; }
+        public AppDbContext(DbContextOptions<AppDbContext> option) : base(option) { }
+
     }
 }

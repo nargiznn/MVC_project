@@ -2,29 +2,17 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AspNet_project/Views/Home/Index.cshtml">
-    <Files>
-      <File FileName="AspNet_project/Views/Shared/_Layout.cshtml" Line="125" Column="52" />
-      <File FileName="AspNet_project/Views/Home/Index.cshtml" Line="28" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AspNet_project">
-            <Node name="AspNet_project">
-              <Node name="Views">
-                <Node name="Home">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
-                <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="wwwroot">
-                <Node name="assets">
-                  <Node name="img" expanded="True">
-                    <Node name="flags" expanded="True" />
-                  </Node>
-                </Node>
+          <Node name="AspNet_project" expanded="True">
+            <Node name="AspNet_project" expanded="True">
+              <Node name="Contollers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>

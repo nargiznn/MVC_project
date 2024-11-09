@@ -137,9 +137,9 @@ C:/Users/nargizzn/Desktop/Project/AspNet_project/AspNet_project/obj/Debug/net6.0
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/staticwebassets.build.json
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/staticwebassets.development.json
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/scopedcss/bundle/AspNet_project.styles.css
-/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/AspNet_project.csproj.CopyComplete
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/AspNet_project.dll
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/refint/AspNet_project.dll
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/AspNet_project.pdb
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/AspNet_project.genruntimeconfig.cache
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/ref/AspNet_project.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/AspNet_project.csproj.CopyComplete
