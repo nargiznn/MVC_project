@@ -1,4 +1,8 @@
 ﻿@model HomeVM
+@inject ILayoutService _layoutService;
+@{
+    Dictionary<string, string> settings = await _layoutService.GetAllSettingAsync();
+}
 <main>
     <h1 class="position-absolute slider-text-1">@Model.SliderWords.Title</h1>
     <h1 class="position-absolute slider-text-2">@Model.SliderWords.MainText</h1>
@@ -990,7 +994,7 @@
                                 <button class="support-button">
                                     <h6 class="support-btn-1-header">Call the customer support</h6>
                                     <h6 class="support-btn-1-description mt-3">
-                                        <i class="fa-solid fa-mobile-screen-button"></i>0123 456 789
+                                        <i class="fa-solid fa-mobile-screen-button"></i>@settings["Phone"]
                                     </h6>
                                 </button>
                                 <h6 class="mt-4 mx-4" style="font-family: 'Raleway'; font-weight: 400;">OR</h6>
@@ -1000,7 +1004,7 @@
                             <button class="support-button">
                                 <h6 class="support-btn-2-header">Send us a message</h6>
                                 <h6 class="support-btn-2-description mt-3">
-                                    <i class="fa-solid fa-envelope"></i>contact@apollotheme.com
+                                    <i class="fa-solid fa-envelope"></i>@settings["ContactEmail"]
                                 </h6>
                             </button>
                         </div>

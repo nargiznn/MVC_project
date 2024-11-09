@@ -1,4 +1,6 @@
 using AspNet_project.Data;
+using AspNet_project.Services;
+using AspNet_project.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +8,7 @@ builder.Services.AddControllersWithViews();
 //builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddDbContext<AppDbContext>(options =>
   options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
-
+builder.Services.AddScoped<ILayoutService, LayoutService>();
 var app = builder.Build();
 app.UseStaticFiles();
 app.UseRouting();

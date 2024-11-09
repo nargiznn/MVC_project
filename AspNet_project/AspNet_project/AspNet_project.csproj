@@ -22,6 +22,12 @@
     <Folder Include="ViewModels\" />
     <Folder Include="ViewModels\Account\" />
     <Folder Include="Views\Account\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Header\" />
+    <Folder Include="Views\Shared\Components\Footer\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -52,6 +58,12 @@
     <None Remove="ViewModels\" />
     <None Remove="ViewModels\Account\" />
     <None Remove="Views\Account\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Header\" />
+    <None Remove="Views\Shared\Components\Footer\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\admin\" />
