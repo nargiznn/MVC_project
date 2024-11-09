@@ -16,6 +16,8 @@
     <Folder Include="Areas\Admin\Views\Shared\" />
     <Folder Include="wwwroot\admin\" />
     <Folder Include="wwwroot\admin\assets2\" />
+    <Folder Include="Views\Collection\" />
+    <Folder Include="Views\Blog\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -39,6 +41,8 @@
     <None Remove="Areas\Admin\Views\" />
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="Areas\Admin\Views\Shared\" />
+    <None Remove="Views\Collection\" />
+    <None Remove="Views\Blog\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\admin\" />

@@ -277,8 +277,8 @@
       "PackagePath": "staticwebassets/admin/assets/sass/light-bootstrap-dashboard.scss"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets2/.DS_Store",
-      "PackagePath": "staticwebassets/admin/assets2/.DS_Store"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/.DS_Store",
+      "PackagePath": "staticwebassets/assets/.DS_Store"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/css/blog.css",
@@ -301,36 +301,36 @@
       "PackagePath": "staticwebassets/assets/css/shop.css"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp",
-      "PackagePath": "staticwebassets/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.jpg",
+      "PackagePath": "staticwebassets/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/apmenuitem_ihtml_2.avif",
-      "PackagePath": "staticwebassets/assets/img/apmenuitem_ihtml_2.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/apmenuitem_ihtml_2.jpg",
+      "PackagePath": "staticwebassets/assets/img/apmenuitem_ihtml_2.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_1.avif",
-      "PackagePath": "staticwebassets/assets/img/background_accessories_1.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_1.jpg",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_1.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_2.avif",
-      "PackagePath": "staticwebassets/assets/img/background_accessories_2.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_2.jpg",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_2.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_3.webp",
       "PackagePath": "staticwebassets/assets/img/background_accessories_3.webp"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_4.avif",
-      "PackagePath": "staticwebassets/assets/img/background_accessories_4.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_4.jpg",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_4.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_5.avif",
-      "PackagePath": "staticwebassets/assets/img/background_accessories_5.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_5.jpg",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_5.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_6.avif",
-      "PackagePath": "staticwebassets/assets/img/background_accessories_6.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_6.jpg",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_6.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/bg_breadcrumb.webp",
@@ -1465,12 +1465,12 @@
       "PackagePath": "staticwebassets/assets/img/home_html_1-2.PNG"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1.avif",
-      "PackagePath": "staticwebassets/assets/img/home_html_1.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1.jpg",
+      "PackagePath": "staticwebassets/assets/img/home_html_1.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_2.avif",
-      "PackagePath": "staticwebassets/assets/img/home_html_2.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_2.jpg",
+      "PackagePath": "staticwebassets/assets/img/home_html_2.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_3.webp",
@@ -1481,8 +1481,8 @@
       "PackagePath": "staticwebassets/assets/img/img-support_2x.webp"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/logo.avif",
-      "PackagePath": "staticwebassets/assets/img/logo.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/logo.jpg",
+      "PackagePath": "staticwebassets/assets/img/logo.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/payment_2x.webp",
@@ -1501,8 +1501,8 @@
       "PackagePath": "staticwebassets/assets/img/slideshow_image_1.webp"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.avif",
-      "PackagePath": "staticwebassets/assets/img/testimonials_image_1_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.jpg",
+      "PackagePath": "staticwebassets/assets/img/testimonials_image_1_2x.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_2_2x.webp",
@@ -1517,28 +1517,28 @@
       "PackagePath": "staticwebassets/assets/img/vendor_logo_1_2x.webp"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_2_2x.avif",
-      "PackagePath": "staticwebassets/assets/img/vendor_logo_2_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_2_2x.jpg",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_2_2x.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_3_2x.avif",
-      "PackagePath": "staticwebassets/assets/img/vendor_logo_3_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_3_2x.jpg",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_3_2x.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_4_2x.avif",
-      "PackagePath": "staticwebassets/assets/img/vendor_logo_4_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_4_2x.jpg",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_4_2x.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_5_2x.avif",
-      "PackagePath": "staticwebassets/assets/img/vendor_logo_5_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_5_2x.jpg",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_5_2x.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_7_2x.avif",
-      "PackagePath": "staticwebassets/assets/img/vendor_logo_7_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_7_2x.jpg",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_7_2x.jpg"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vermenuitem_image_1.avif",
-      "PackagePath": "staticwebassets/assets/img/vermenuitem_image_1.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vermenuitem_image_1.jpg",
+      "PackagePath": "staticwebassets/assets/img/vermenuitem_image_1.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_1.png",

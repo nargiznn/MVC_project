@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nYkwYNsySUxqptFKqJxfhMqTJ4zZfiqTKSjksi8/aFY=",
+  "Hash": "J4+oDK8qKnE61uhww63xCtSwxU8e7f8oW6eRsfWP7DA=",
   "Source": "AspNet_project",
   "BasePath": "_content/AspNet_project",
   "Mode": "Default",
@@ -1190,12 +1190,12 @@
       "OriginalItemSpec": "wwwroot/admin/assets/sass/light-bootstrap-dashboard.scss"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets2/.DS_Store",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/.DS_Store",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "admin/assets2/.DS_Store",
+      "RelativePath": "assets/.DS_Store",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,7 +1204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/admin/assets2/.DS_Store"
+      "OriginalItemSpec": "wwwroot/assets/.DS_Store"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/css/blog.css",
@@ -1292,12 +1292,12 @@
       "OriginalItemSpec": "wwwroot/assets/css/shop.css"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp",
+      "RelativePath": "assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp"
+      "OriginalItemSpec": "wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/apmenuitem_ihtml_2.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/apmenuitem_ihtml_2.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/apmenuitem_ihtml_2.avif",
+      "RelativePath": "assets/img/apmenuitem_ihtml_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/apmenuitem_ihtml_2.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/apmenuitem_ihtml_2.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_1.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_1.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/background_accessories_1.avif",
+      "RelativePath": "assets/img/background_accessories_1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_1.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_1.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_2.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_2.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/background_accessories_2.avif",
+      "RelativePath": "assets/img/background_accessories_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,7 +1357,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_2.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_2.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_3.webp",
@@ -1377,12 +1377,12 @@
       "OriginalItemSpec": "wwwroot/assets/img/background_accessories_3.webp"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_4.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_4.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/background_accessories_4.avif",
+      "RelativePath": "assets/img/background_accessories_4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_4.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_4.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_5.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_5.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/background_accessories_5.avif",
+      "RelativePath": "assets/img/background_accessories_5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_5.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_5.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_6.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_6.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/background_accessories_6.avif",
+      "RelativePath": "assets/img/background_accessories_6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,7 +1425,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_6.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/background_accessories_6.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/bg_breadcrumb.webp",
@@ -6239,12 +6239,12 @@
       "OriginalItemSpec": "wwwroot/assets/img/home_html_1-2.PNG"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/home_html_1.avif",
+      "RelativePath": "assets/img/home_html_1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6253,15 +6253,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/home_html_1.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/home_html_1.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_2.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_2.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/home_html_2.avif",
+      "RelativePath": "assets/img/home_html_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6270,7 +6270,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/home_html_2.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/home_html_2.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_3.webp",
@@ -6307,12 +6307,12 @@
       "OriginalItemSpec": "wwwroot/assets/img/img-support_2x.webp"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/logo.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/logo.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/logo.avif",
+      "RelativePath": "assets/img/logo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6321,7 +6321,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/logo.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/logo.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/payment_2x.webp",
@@ -6392,12 +6392,12 @@
       "OriginalItemSpec": "wwwroot/assets/img/slideshow_image_1.webp"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/testimonials_image_1_2x.avif",
+      "RelativePath": "assets/img/testimonials_image_1_2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6406,7 +6406,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/testimonials_image_1_2x.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/testimonials_image_1_2x.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_2_2x.webp",
@@ -6460,12 +6460,12 @@
       "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_1_2x.webp"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_2_2x.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_2_2x.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/vendor_logo_2_2x.avif",
+      "RelativePath": "assets/img/vendor_logo_2_2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6474,15 +6474,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_2_2x.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_2_2x.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_3_2x.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_3_2x.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/vendor_logo_3_2x.avif",
+      "RelativePath": "assets/img/vendor_logo_3_2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6491,15 +6491,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_3_2x.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_3_2x.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_4_2x.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_4_2x.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/vendor_logo_4_2x.avif",
+      "RelativePath": "assets/img/vendor_logo_4_2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6508,15 +6508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_4_2x.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_4_2x.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_5_2x.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_5_2x.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/vendor_logo_5_2x.avif",
+      "RelativePath": "assets/img/vendor_logo_5_2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6525,15 +6525,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_5_2x.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_5_2x.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_7_2x.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_7_2x.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/vendor_logo_7_2x.avif",
+      "RelativePath": "assets/img/vendor_logo_7_2x.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6542,15 +6542,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_7_2x.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/vendor_logo_7_2x.jpg"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vermenuitem_image_1.avif",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vermenuitem_image_1.jpg",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/vermenuitem_image_1.avif",
+      "RelativePath": "assets/img/vermenuitem_image_1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6559,7 +6559,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/vermenuitem_image_1.avif"
+      "OriginalItemSpec": "wwwroot/assets/img/vermenuitem_image_1.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_1.png",
