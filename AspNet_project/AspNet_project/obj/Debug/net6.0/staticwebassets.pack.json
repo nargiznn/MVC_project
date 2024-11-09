@@ -1,1339 +1,1619 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\css\\blog.css",
-      "PackagePath": "staticwebassets\\assets\\css\\blog.css"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/.DS_Store",
+      "PackagePath": "staticwebassets/admin/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\css\\home.css",
-      "PackagePath": "staticwebassets\\assets\\css\\home.css"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/.DS_Store",
+      "PackagePath": "staticwebassets/admin/assets/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\css\\product.css",
-      "PackagePath": "staticwebassets\\assets\\css\\product.css"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/animate.min.css",
+      "PackagePath": "staticwebassets/admin/assets/css/animate.min.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\css\\shop.css",
-      "PackagePath": "staticwebassets\\assets\\css\\shop.css"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/admin/assets/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/demo.css",
+      "PackagePath": "staticwebassets/admin/assets/css/demo.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\apmenuitem_ihtml_2.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\apmenuitem_ihtml_2.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/light-bootstrap-dashboard.css",
+      "PackagePath": "staticwebassets/admin/assets/css/light-bootstrap-dashboard.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\background_accessories_1.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\background_accessories_1.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets/admin/assets/css/pe-icon-7-stroke.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\background_accessories_2.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\background_accessories_2.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/fonts/Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Pe-icon-7-stroke.eot"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\background_accessories_3.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\background_accessories_3.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/fonts/Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Pe-icon-7-stroke.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\background_accessories_4.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\background_accessories_4.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/fonts/Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Pe-icon-7-stroke.ttf"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\background_accessories_5.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\background_accessories_5.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/fonts/Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Pe-icon-7-stroke.woff"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\background_accessories_6.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\background_accessories_6.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/default-avatar.png",
+      "PackagePath": "staticwebassets/admin/assets/img/default-avatar.png"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\bg_breadcrumb.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\bg_breadcrumb.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-0.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-0.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\blog-1_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\blog-1_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-1.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-1.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\blog-3_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\blog-3_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-2.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-2.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card1-2.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card1-2.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-3.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-3.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card1.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card1.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-4.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-4.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card2-2.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card2-2.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-5.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-5.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card2.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card2.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-6.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-6.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card3-2.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card3-2.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/face-7.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/face-7.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card3.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card3.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/faces/tim_vector.jpe",
+      "PackagePath": "staticwebassets/admin/assets/img/faces/tim_vector.jpe"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card4-2.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card4-2.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/favicon.ico",
+      "PackagePath": "staticwebassets/admin/assets/img/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card4.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card4.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/full-screen-image-3.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/full-screen-image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\card5-2.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\card5-2.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/loading-bubbles.svg",
+      "PackagePath": "staticwebassets/admin/assets/img/loading-bubbles.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ad.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ad.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/mask.png",
+      "PackagePath": "staticwebassets/admin/assets/img/mask.png"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ae.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ae.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/new_logo.png",
+      "PackagePath": "staticwebassets/admin/assets/img/new_logo.png"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\af.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\af.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/sidebar-1.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/sidebar-1.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ag.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ag.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/sidebar-2.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/sidebar-2.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ai.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ai.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/sidebar-3.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/sidebar-3.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\al.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\al.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/sidebar-4.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/sidebar-4.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\am.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\am.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/sidebar-5.jpg",
+      "PackagePath": "staticwebassets/admin/assets/img/sidebar-5.jpg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ao.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ao.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/img/tim_80x80.png",
+      "PackagePath": "staticwebassets/admin/assets/img/tim_80x80.png"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\aq.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\aq.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/js/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/admin/assets/js/bootstrap-notify.js"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ar.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ar.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/js/bootstrap-select.js",
+      "PackagePath": "staticwebassets/admin/assets/js/bootstrap-select.js"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\arab.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\arab.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/admin/assets/js/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\as.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\as.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/js/chartist.min.js",
+      "PackagePath": "staticwebassets/admin/assets/js/chartist.min.js"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\at.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\at.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/js/demo.js",
+      "PackagePath": "staticwebassets/admin/assets/js/demo.js"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\au.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\au.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/js/jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets/admin/assets/js/jquery.3.2.1.min.js"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\aw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\aw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/js/light-bootstrap-dashboard.js",
+      "PackagePath": "staticwebassets/admin/assets/js/light-bootstrap-dashboard.js"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ax.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ax.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_alerts.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_alerts.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\az.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\az.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_buttons.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ba.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ba.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_cards.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_cards.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bb.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bb.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_chartist.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_chartist.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bd.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bd.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_checkbox-radio-switch.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_checkbox-radio-switch.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\be.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\be.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_dropdown.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_footers.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_footers.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_inputs.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_inputs.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bh.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bh.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_misc.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_misc.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bi.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bi.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_mixins.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bj.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bj.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_navbars.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_navbars.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_responsive.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_responsive.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_sidebar-and-main-panel.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_tables.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_tables.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bo.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bo.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_typography.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_typography.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bq.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bq.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/_variables.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/_variables.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\br.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\br.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bs.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bs.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_cards.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_cards.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bt.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bt.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_chartist.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_chartist.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bv.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bv.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_icons.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_icons.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_inputs.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_inputs.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\by.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\by.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_labels.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_labels.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\bz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\bz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_morphing-buttons.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_morphing-buttons.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ca.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ca.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_navbars.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_navbars.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_social-buttons.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cd.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cd.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_tabs.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_tabs.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cefta.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cefta.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_transparency.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_transparency.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/lbd/mixins/_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/lbd/mixins/_vendor-prefixes.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/sass/light-bootstrap-dashboard.scss",
+      "PackagePath": "staticwebassets/admin/assets/sass/light-bootstrap-dashboard.scss"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ch.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ch.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets2/.DS_Store",
+      "PackagePath": "staticwebassets/admin/assets2/.DS_Store"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ci.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ci.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/css/blog.css",
+      "PackagePath": "staticwebassets/assets/css/blog.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ck.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ck.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/css/bootstrap.css",
+      "PackagePath": "staticwebassets/assets/css/bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/css/home.css",
+      "PackagePath": "staticwebassets/assets/css/home.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/css/product.css",
+      "PackagePath": "staticwebassets/assets/css/product.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/css/shop.css",
+      "PackagePath": "staticwebassets/assets/css/shop.css"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\co.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\co.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp",
+      "PackagePath": "staticwebassets/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cp.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cp.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/apmenuitem_ihtml_2.avif",
+      "PackagePath": "staticwebassets/assets/img/apmenuitem_ihtml_2.avif"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_1.avif",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_1.avif"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_2.avif",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_2.avif"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cv.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cv.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_3.webp",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_3.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_4.avif",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_4.avif"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cx.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cx.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_5.avif",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_5.avif"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cy.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cy.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/background_accessories_6.avif",
+      "PackagePath": "staticwebassets/assets/img/background_accessories_6.avif"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\cz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\cz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/bg_breadcrumb.webp",
+      "PackagePath": "staticwebassets/assets/img/bg_breadcrumb.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\de.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\de.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/blog-1_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/blog-1_2x.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\dg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\dg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/blog-3_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/blog-3_2x.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\dj.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\dj.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card1-2.webp",
+      "PackagePath": "staticwebassets/assets/img/card1-2.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\dk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\dk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card1.webp",
+      "PackagePath": "staticwebassets/assets/img/card1.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\dm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\dm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card2-2.webp",
+      "PackagePath": "staticwebassets/assets/img/card2-2.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\do.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\do.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card2.webp",
+      "PackagePath": "staticwebassets/assets/img/card2.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\dz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\dz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card3-2.webp",
+      "PackagePath": "staticwebassets/assets/img/card3-2.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\eac.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\eac.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card3.webp",
+      "PackagePath": "staticwebassets/assets/img/card3.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ec.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ec.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card4-2.webp",
+      "PackagePath": "staticwebassets/assets/img/card4-2.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ee.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ee.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card4.webp",
+      "PackagePath": "staticwebassets/assets/img/card4.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\eg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\eg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card5-2.webp",
+      "PackagePath": "staticwebassets/assets/img/card5-2.webp"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\eh.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\eh.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ad.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ad.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\er.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\er.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ae.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ae.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\es-ct.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\es-ct.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/af.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/af.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\es-ga.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\es-ga.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ag.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ag.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\es-pv.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\es-pv.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ai.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ai.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\es.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\es.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/al.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/al.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\et.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\et.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/am.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/am.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\eu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\eu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ao.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ao.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\fi.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\fi.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/aq.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/aq.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\fj.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\fj.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ar.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ar.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\fk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\fk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/arab.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/arab.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\fm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\fm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/as.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/as.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\fo.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\fo.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/at.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/at.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\fr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\fr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/au.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/au.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ga.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ga.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/aw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/aw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gb-eng.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gb-eng.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ax.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ax.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gb-nir.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gb-nir.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/az.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/az.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gb-sct.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gb-sct.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ba.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ba.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gb-wls.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gb-wls.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bb.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bb.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gb.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gb.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bd.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bd.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gd.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gd.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/be.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/be.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ge.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ge.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bf.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bh.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bh.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gh.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gh.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bi.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bi.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gi.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gi.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bj.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bj.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bl.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gp.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gp.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bo.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bo.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gq.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gq.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bq.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bq.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/br.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/br.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gs.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gs.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bs.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bs.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gt.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gt.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bt.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bt.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bv.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bv.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\gy.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\gy.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/by.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/by.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\hk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\hk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/bz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/bz.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\hm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\hm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ca.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ca.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\hn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\hn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cc.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\hr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\hr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cd.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cd.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ht.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ht.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cefta.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cefta.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\hu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\hu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cf.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ic.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ic.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\id.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\id.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ch.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ch.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ie.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ie.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ci.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ci.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\il.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\il.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ck.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ck.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\im.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\im.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cl.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\in.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\in.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\io.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\io.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\iq.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\iq.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/co.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/co.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ir.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ir.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cp.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cp.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\is.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\is.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\it.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\it.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cu.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\je.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\je.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cv.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cv.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\jm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\jm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\jo.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\jo.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cx.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cx.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\jp.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\jp.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cy.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cy.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ke.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ke.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/cz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/cz.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\kg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\kg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/de.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/de.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\kh.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\kh.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/dg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/dg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ki.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ki.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/dj.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/dj.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\km.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\km.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/dk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/dk.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\kn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\kn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/dm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/dm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\kp.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\kp.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/do.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/do.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\kr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\kr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/dz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/dz.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\kw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\kw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/eac.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/eac.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ky.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ky.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ec.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ec.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\kz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\kz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ee.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ee.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\la.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\la.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/eg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/eg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\lb.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\lb.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/eh.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/eh.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\lc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\lc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/er.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/er.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\li.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\li.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/es-ct.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/es-ct.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\lk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\lk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/es-ga.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/es-ga.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\lr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\lr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/es-pv.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/es-pv.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ls.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ls.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/es.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/es.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\lt.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\lt.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/et.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/et.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\lu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\lu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/eu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/eu.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\lv.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\lv.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/fi.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/fi.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ly.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ly.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/fj.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/fj.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ma.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ma.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/fk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/fk.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/fm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/fm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\md.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\md.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/fo.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/fo.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\me.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\me.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/fr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/fr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ga.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ga.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gb-eng.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gb-eng.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mh.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mh.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gb-nir.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gb-nir.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gb-sct.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gb-sct.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ml.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ml.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gb-wls.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gb-wls.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gb.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gb.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gd.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gd.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mo.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mo.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ge.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ge.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mp.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mp.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gf.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mq.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mq.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gh.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gh.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ms.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ms.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gi.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gi.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mt.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mt.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gl.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mv.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mv.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gp.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gp.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mx.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mx.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gq.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gq.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\my.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\my.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\mz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\mz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gs.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gs.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\na.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\na.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gt.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gt.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\nc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\nc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gu.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ne.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ne.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\nf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\nf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/gy.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/gy.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ng.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ng.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/hk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/hk.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ni.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ni.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/hm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/hm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\nl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\nl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/hn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/hn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\no.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\no.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/hr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/hr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\np.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\np.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ht.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ht.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\nr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\nr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/hu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/hu.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\nu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\nu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ic.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ic.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\nz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\nz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/id.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/id.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\om.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\om.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ie.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ie.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pa.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pa.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/il.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/il.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/im.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/im.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pe.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pe.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/in.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/in.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/io.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/io.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/iq.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/iq.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ph.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ph.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ir.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ir.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/is.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/is.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/it.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/it.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/je.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/je.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/jm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/jm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/jo.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/jo.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ps.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ps.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/jp.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/jp.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pt.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pt.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ke.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ke.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\pw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\pw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/kg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/kg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\py.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\py.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/kh.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/kh.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\qa.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\qa.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ki.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ki.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\re.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\re.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/km.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/km.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ro.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ro.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/kn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/kn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\rs.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\rs.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/kp.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/kp.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ru.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ru.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/kr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/kr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\rw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\rw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/kw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/kw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sa.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sa.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ky.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ky.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sb.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sb.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/kz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/kz.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/la.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/la.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sd.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sd.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/lb.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/lb.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\se.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\se.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/lc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/lc.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/li.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/li.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sh-ac.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sh-ac.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/lk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/lk.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sh-hl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sh-hl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/lr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/lr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sh-ta.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sh-ta.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ls.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ls.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sh.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sh.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/lt.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/lt.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\si.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\si.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/lu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/lu.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sj.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sj.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/lv.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/lv.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ly.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ly.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ma.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ma.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mc.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/md.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/md.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\so.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\so.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/me.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/me.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mf.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ss.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ss.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\st.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\st.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mh.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mh.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sv.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sv.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mk.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sx.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sx.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ml.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ml.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sy.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sy.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\sz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\sz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mo.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mo.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\td.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\td.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mp.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mp.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mq.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mq.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\th.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\th.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ms.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ms.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tj.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tj.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mt.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mt.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mu.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tl.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tl.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mv.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mv.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mx.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mx.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\to.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\to.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/my.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/my.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tr.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tr.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/mz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/mz.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tt.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tt.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/na.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/na.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tv.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tv.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/nc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/nc.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ne.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ne.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\tz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\tz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/nf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/nf.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ua.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ua.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ng.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ng.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ug.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ug.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ni.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ni.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\um.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\um.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/nl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/nl.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\un.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\un.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/no.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/no.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\us.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\us.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/np.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/np.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\uy.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\uy.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/nr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/nr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\uz.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\uz.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/nu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/nu.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\va.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\va.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/nz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/nz.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\vc.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\vc.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/om.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/om.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ve.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ve.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pa.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pa.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\vg.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\vg.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pc.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\vi.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\vi.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pe.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pe.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\vn.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\vn.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pf.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\vu.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\vu.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\wf.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\wf.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ph.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ph.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ws.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ws.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pk.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\xk.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\xk.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pl.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\xx.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\xx.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\ye.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\ye.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\yt.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\yt.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\za.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\za.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ps.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ps.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\zm.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\zm.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pt.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pt.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\flags\\1x1\\zw.svg",
-      "PackagePath": "staticwebassets\\assets\\img\\flags\\1x1\\zw.svg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/pw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/pw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\home_html_1-2.PNG",
-      "PackagePath": "staticwebassets\\assets\\img\\home_html_1-2.PNG"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/py.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/py.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\home_html_1.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\home_html_1.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/qa.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/qa.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\home_html_2.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\home_html_2.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/re.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/re.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\home_html_3.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\home_html_3.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ro.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ro.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\img-support_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\img-support_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/rs.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/rs.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\logo.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\logo.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ru.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ru.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\payment_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\payment_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/rw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/rw.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\shop_images_footer_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_images_footer_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sa.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sa.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\slideshow_image_1 (1).webp",
-      "PackagePath": "staticwebassets\\assets\\img\\slideshow_image_1 (1).webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sb.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sb.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\slideshow_image_1.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\slideshow_image_1.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sc.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\testimonials_image_1_2x.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\testimonials_image_1_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sd.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sd.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\testimonials_image_2_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\testimonials_image_2_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/se.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/se.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\testimonials_image_3_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\testimonials_image_3_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sg.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vendor_logo_1_2x.webp",
-      "PackagePath": "staticwebassets\\assets\\img\\vendor_logo_1_2x.webp"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sh-ac.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sh-ac.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vendor_logo_2_2x.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\vendor_logo_2_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sh-hl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sh-hl.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vendor_logo_3_2x.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\vendor_logo_3_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sh-ta.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sh-ta.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vendor_logo_4_2x.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\vendor_logo_4_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sh.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sh.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vendor_logo_5_2x.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\vendor_logo_5_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/si.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/si.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vendor_logo_7_2x.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\vendor_logo_7_2x.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sj.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sj.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vermenuitem_image_1.avif",
-      "PackagePath": "staticwebassets\\assets\\img\\vermenuitem_image_1.avif"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sk.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_1.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_1.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sl.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_10.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_10.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sm.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_2.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_2.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sn.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_3.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_3.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/so.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/so.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_4.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_4.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sr.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_5.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_5.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ss.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ss.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_6.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_6.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/st.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/st.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_7.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_7.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sv.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sv.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_8.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_8.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sx.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sx.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\img\\vertical_icon_9.png",
-      "PackagePath": "staticwebassets\\assets\\img\\vertical_icon_9.png"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sy.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sy.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\js\\blog.js",
-      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/sz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/sz.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tc.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\js\\home.js",
-      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/td.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/td.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\js\\product.js",
-      "PackagePath": "staticwebassets\\assets\\js\\product.js"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tf.svg"
     },
     {
-      "Id": "C:\\Users\\nargizzn\\Desktop\\Project\\AspNet_project\\AspNet_project\\wwwroot\\assets\\js\\shop.js",
-      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tg.svg"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AspNet_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/th.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/th.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tj.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tj.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tk.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tl.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tl.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tm.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tn.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/to.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/to.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tr.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tr.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tt.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tt.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tv.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tv.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tw.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/tz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/tz.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ua.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ua.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ug.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ug.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/um.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/um.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/un.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/un.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/us.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/us.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/uy.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/uy.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/uz.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/uz.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/va.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/va.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/vc.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/vc.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ve.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ve.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/vg.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/vg.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/vi.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/vi.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/vn.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/vn.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/vu.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/vu.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/wf.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/wf.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ws.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ws.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/xk.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/xk.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/xx.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/xx.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ye.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/ye.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/yt.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/yt.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/za.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/za.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/zm.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/zm.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/zw.svg",
+      "PackagePath": "staticwebassets/assets/img/flags/1x1/zw.svg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1-2.PNG",
+      "PackagePath": "staticwebassets/assets/img/home_html_1-2.PNG"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1.avif",
+      "PackagePath": "staticwebassets/assets/img/home_html_1.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_2.avif",
+      "PackagePath": "staticwebassets/assets/img/home_html_2.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_3.webp",
+      "PackagePath": "staticwebassets/assets/img/home_html_3.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/img-support_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/img-support_2x.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/logo.avif",
+      "PackagePath": "staticwebassets/assets/img/logo.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/payment_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/payment_2x.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/shop_images_footer_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/shop_images_footer_2x.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/slideshow_image_1 (1).webp",
+      "PackagePath": "staticwebassets/assets/img/slideshow_image_1 (1).webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/slideshow_image_1.webp",
+      "PackagePath": "staticwebassets/assets/img/slideshow_image_1.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.avif",
+      "PackagePath": "staticwebassets/assets/img/testimonials_image_1_2x.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_2_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/testimonials_image_2_2x.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_3_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/testimonials_image_3_2x.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_1_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_1_2x.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_2_2x.avif",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_2_2x.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_3_2x.avif",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_3_2x.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_4_2x.avif",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_4_2x.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_5_2x.avif",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_5_2x.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vendor_logo_7_2x.avif",
+      "PackagePath": "staticwebassets/assets/img/vendor_logo_7_2x.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vermenuitem_image_1.avif",
+      "PackagePath": "staticwebassets/assets/img/vermenuitem_image_1.avif"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_1.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_1.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_10.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_10.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_2.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_2.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_3.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_3.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_4.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_4.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_5.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_5.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_6.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_6.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_7.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_7.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_8.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_8.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_9.png",
+      "PackagePath": "staticwebassets/assets/img/vertical_icon_9.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/js/blog.js",
+      "PackagePath": "staticwebassets/assets/js/blog.js"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/js/bootstrap.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/js/home.js",
+      "PackagePath": "staticwebassets/assets/js/home.js"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/js/product.js",
+      "PackagePath": "staticwebassets/assets/js/product.js"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/js/shop.js",
+      "PackagePath": "staticwebassets/assets/js/shop.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.AspNet_project.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AspNet_project.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.AspNet_project.props",
       "PackagePath": "build\\AspNet_project.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNet_project.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AspNet_project.props",
       "PackagePath": "buildMultiTargeting\\AspNet_project.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AspNet_project.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AspNet_project.props",
       "PackagePath": "buildTransitive\\AspNet_project.props"
     }
   ],
