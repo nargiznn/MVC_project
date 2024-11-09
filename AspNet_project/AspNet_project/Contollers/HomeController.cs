@@ -22,6 +22,7 @@ namespace AspNet_project.Contollers
             {
                 Sliders = await _context.Sliders.ToListAsync(),
                 SliderWords = await _context.SliderWords.OrderByDescending(sw => sw.Id).FirstOrDefaultAsync(),
+                Adverts= await _context.Adverts.ToListAsync(),
 
             });
         }

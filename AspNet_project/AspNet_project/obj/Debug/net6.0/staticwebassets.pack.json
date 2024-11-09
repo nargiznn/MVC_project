@@ -305,6 +305,10 @@
       "PackagePath": "staticwebassets/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.jpg"
     },
     {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/advert.jpg",
+      "PackagePath": "staticwebassets/assets/img/advert.jpg"
+    },
+    {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/apmenuitem_ihtml_2.jpg",
       "PackagePath": "staticwebassets/assets/img/apmenuitem_ihtml_2.jpg"
     },

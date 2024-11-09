@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J4+oDK8qKnE61uhww63xCtSwxU8e7f8oW6eRsfWP7DA=",
+  "Hash": "hKwrO3Jc07Q+DZA2o+GH/dmW78NF91cV7whMjYkatU0=",
   "Source": "AspNet_project",
   "BasePath": "_content/AspNet_project",
   "Mode": "Default",
@@ -1307,6 +1307,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/img/65-large_default_36f7faa9-05f9-4ebb-8d0b-0bbae58d378c_grande.jpg"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/advert.jpg",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "assets/img/advert.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/advert.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/apmenuitem_ihtml_2.jpg",

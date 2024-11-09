@@ -33,20 +33,13 @@
 
         <div class="container h-100">
             <div class="row h-100">
-                <div class="col-6  d-flex">
+                @foreach (var item in Model.Adverts)
+                {
                     <div class="col-6">
-                        <img src="~/assets/img/home_html_1.jpg" alt="" height="100%" width="100%"
+                        <img src="~/assets/img/@item.Image" alt="" height="100%" width="100%"
                              class="banner-image img-fluid">
                     </div>
-                    <div class="col-6">
-                        <img src="~/assets/img/home_html_2.jpg" alt="" height="100%" width="100%"
-                             class="banner-image img-fluid">
-                    </div>
-                </div>
-                <div class="col-6">
-                    <img src="~/assets/img/home_html_3.webp" alt="" height="100%" width="100%"
-                         class="banner-image img-fluid">
-                </div>
+                }
             </div>
         </div>
     </section>
