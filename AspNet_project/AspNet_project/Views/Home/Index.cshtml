@@ -7,12 +7,12 @@
     <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             @for (int i = 0; i < Model.Sliders.Count; i++)
+            {
+                string activeElem = "";
+                if (Model.Sliders.FirstOrDefault() == Model.Sliders[i])
                 {
-                    string activeElem = "";
-                    if (Model.Sliders.FirstOrDefault() == Model.Sliders[i])
-                    {
-                        activeElem = "active";
-                    }
+                    activeElem = "active";
+                }
                 <div class="carousel-item @activeElem">
                     <img src="~/assets/img/@Model.Sliders[i].Image" class="d-block w-100 img-fluid" alt="Slide 1">
                 </div>
@@ -1180,61 +1180,29 @@
     </section>
     <section id="brands">
         <div class="container mt-5">
-            <span class="banner-header-text">top brands</span>
+            <span class="banner-header-text">Top Brands</span>
             <div class="brands bg-white">
                 <div class="row p-4">
-                    <div class="col-6 col-md-4 col-lg-2">
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_1_2x.webp" alt="">
+                    @for (int i = 0; i < Model.Brands.Count; i += 2)
+                    {
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="col-6">
+                                <img src="~/assets/img/@Model.Brands[i].Image" alt="@Model.Brands[i].Name" class="img-fluid" />
+                            </div>
+
+                            @if (i + 1 < Model.Brands.Count)
+                            {
+                                <div class="col-6">
+                                    <img src="~/assets/img/@Model.Brands[i + 1].Image" alt="@Model.Brands[i + 1].Name" class="img-fluid" />
+                                </div>
+                            }
                         </div>
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_3_2x.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-2">
-                        <div class="col-6 ">
-                            <img src="~/assets/img/vendor_logo_5_2x.jpg" alt="">
-                        </div>
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_7_2x.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-2">
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_1_2x.webp" alt="">
-                        </div>
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_5_2x.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-2">
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_2_2x.jpg" alt="">
-                        </div>
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_4_2x.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-2">
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_2_2x.jpg" alt="">
-                        </div>
-                        <div class="col-3 col-lg-2">
-                            <img src="~/assets/img/vendor_logo_4_2x.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-6 col-md-4 col-lg-2">
-                        <div class="col-6">
-                            <img src="~/assets/img/vendor_logo_2_2x.jpg" alt="">
-                        </div>
-                        <div class="col-3 col-lg-2">
-                            <img src="~/assets/img/vendor_logo_4_2x.jpg" alt="">
-                        </div>
-                    </div>
+                    }
                 </div>
             </div>
         </div>
     </section>
+
     <section id="accessories">
         <div class="container p-1">
             <span class="banner-header-text">car accessories</span>

@@ -9,6 +9,7 @@ namespace AspNet_project.Data
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<SliderWords> SliderWords { get; set; }
         public DbSet<Advert> Adverts { get; set; }
+        public DbSet<Brand> Brands { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> option) : base(option) { }
 
     }
