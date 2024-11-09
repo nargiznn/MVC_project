@@ -11,6 +11,9 @@ namespace AspNet_project.Data
         public DbSet<Advert> Adverts { get; set; }
         public DbSet<Brand> Brands { get; set; }
         public DbSet<Setting> Settings { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Article> Articles { get; set; }
+        public DbSet<News> News { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> option) : base(option) { }
 
     }
