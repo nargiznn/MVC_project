@@ -1211,79 +1211,25 @@
         <div class="container p-1">
             <span class="banner-header-text">car accessories</span>
             <div class="row mt-2">
-                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-between acc-1">
-                    <div></div>
-                    <div class="mt-2">
-                        <h6 class="accessories-text text-end">wheel</h6>
-                        <ul>
-                            <li>Exhaust Tips <i class="fa-solid fa-square"></i></li>
-                            <li>Bumpers & Components <i class="fa-solid fa-square"></i></li>
-                            <li>Mirrors & Components <i class="fa-solid fa-square"></i></li>
-                            <li>Grilles & Components <i class="fa-solid fa-square"></i></li>
-                            <li>Brake Discs <i class="fa-solid fa-square"></i></li>
-                        </ul>
+                @for (int i = 0; i < Model.Accessories.Count; i++)
+                {
+                    <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-between acc-1">
+                        <div>
+                            <img src="~/assets/img/@Model.Accessories[i].Image" alt="Accessory Image" style="width: 80px; height: 80px;" />
+                        </div>
+                        <div class="mt-2">
+                            <h6 class="accessories-text text-end">@Model.Accessories[i].Name</h6>
+                            <ul>
+                                @foreach (var item in @Model.Accessories[i].AccessoryCategories)
+                                {
+                                    <li>@item.Name<i class="fa-solid fa-square"></i></li>
+                                }
+
+                            </ul>
+                        </div>
                     </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-between acc-2">
-                    <div></div>
-                    <div class="mt-2">
-                        <h6 class="accessories-text text-end">Brake Discs</h6>
-                        <ul>
-                            <li>Calipers<i class="fa-solid fa-square"></i></li>
-                            <li>Shocks, Struts <i class="fa-solid fa-square"></i></li>
-                            <li>Car Covers <i class="fa-solid fa-square"></i></li>
-                            <li> Seats, Seat Covers <i class="fa-solid fa-square"></i></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-between acc-3">
-                    <div></div>
-                    <div class="mt-2">
-                        <h6 class="accessories-text text-end">Seat Cover</h6>
-                        <ul>
-                            <li>Axles, Driveshaft & 4WD <i class="fa-solid fa-square"></i></li>
-                            <li>Floormats <i class="fa-solid fa-square"></i></li>
-                            <li>Hand Brakes <i class="fa-solid fa-square"></i></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-between acc-4 mt-2">
-                    <div></div>
-                    <div class="mt-2">
-                        <h6 class="accessories-text text-end">Floormats</h6>
-                        <ul>
-                            <li>Shocks, Struts <i class="fa-solid fa-square"></i></li>
-                            <li>Car Covers <i class="fa-solid fa-square"></i></li>
-                            <li>Seats, Seat Covers <i class="fa-solid fa-square"></i></li>
-                            <li>Carpet Kits <i class="fa-solid fa-square"></i></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-between acc-5 mt-2">
-                    <div></div>
-                    <div class="mt-2">
-                        <h6 class="accessories-text text-end">Hand Brakes</h6>
-                        <ul>
-                            <li>Components <i class="fa-solid fa-square"></i></li>
-                            <li>Axles, Driveshaft & 4WD <i class="fa-solid fa-square"></i></li>
-                            <li>Floormats <i class="fa-solid fa-square"></i></li>
-                            <li>Hand Brakes <i class="fa-solid fa-square"></i></li>
-                            <li>Pedals <i class="fa-solid fa-square"></i></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4 d-flex justify-content-between acc-6 mt-2">
-                    <div></div>
-                    <div class="mt-2">
-                        <h6 class="accessories-text text-end">Components</h6>
-                        <ul>
-                            <li>Axles, Driveshaft & 4WD <i class="fa-solid fa-square"></i></li>
-                            <li>Floormats <i class="fa-solid fa-square"></i></li>
-                            <li>Hand Brakes <i class="fa-solid fa-square"></i></li>
-                            <li>Pedals <i class="fa-solid fa-square"></i></li>
-                        </ul>
-                    </div>
-                </div>
+                }
+
             </div>
         </div>
     </section>

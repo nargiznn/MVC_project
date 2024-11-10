@@ -9,6 +9,8 @@ namespace AspNet_project.ViewModels
         public SliderWords SliderWords { get; set; }
         public List<Advert> Adverts { get; set; }
         public List<Brand> Brands { get; set; }
+        public List<Accessory> Accessories { get; set; }
+        public List<AccessoryCategory> AccessoryCategories { get; set; }
     }
 }
 

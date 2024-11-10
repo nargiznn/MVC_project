@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hKwrO3Jc07Q+DZA2o+GH/dmW78NF91cV7whMjYkatU0=",
+  "Hash": "t08cReS9jfLIsUcfr/6n9YygQTEsRc0CP811rirOHSc=",
   "Source": "AspNet_project",
   "BasePath": "_content/AspNet_project",
   "Mode": "Default",
@@ -1496,6 +1496,23 @@
       "OriginalItemSpec": "wwwroot/assets/img/blog-3_2x.webp"
     },
     {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/brakedisc.jpg",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "assets/img/brakedisc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/brakedisc.jpg"
+    },
+    {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card1-2.webp",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
@@ -1647,6 +1664,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/img/card5-2.webp"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/components.jpg",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "assets/img/components.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/components.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ad.svg",
@@ -6239,6 +6273,40 @@
       "OriginalItemSpec": "wwwroot/assets/img/flags/1x1/zw.svg"
     },
     {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/floormats.jpg",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "assets/img/floormats.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/floormats.jpg"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/handbrakers.jpg",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "assets/img/handbrakers.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/handbrakers.jpg"
+    },
+    {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1-2.PNG",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
@@ -6356,6 +6424,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/img/payment_2x.webp"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/seatcover.jpg",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "assets/img/seatcover.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/seatcover.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/shop_images_footer_2x.webp",
@@ -6747,6 +6832,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/img/vertical_icon_9.png"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/wheels.jpg",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "assets/img/wheels.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/wheels.jpg"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/js/blog.js",

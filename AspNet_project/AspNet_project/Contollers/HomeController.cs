@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace AspNet_project.Contollers
+namespace AspNet_project.Controllers
 {
     public class HomeController : Controller
     {
@@ -14,8 +14,8 @@ namespace AspNet_project.Contollers
         public HomeController(AppDbContext context)
         {
             _context = context;
-
         }
+
         public async Task<IActionResult> Index()
         {
             return View(new HomeVM
@@ -24,7 +24,12 @@ namespace AspNet_project.Contollers
                 SliderWords = await _context.SliderWords.OrderByDescending(sw => sw.Id).FirstOrDefaultAsync(),
                 Adverts = await _context.Adverts.OrderByDescending(mn => mn.Id).Take(2).ToListAsync(),
                 Brands = await _context.Brands.OrderByDescending(mn => mn.Id).ToListAsync(),
+                Accessories = await _context.Accessories
+                    .Where(a => a.AccessoryCategories.Any(ac => ac.AccessoryId == a.Id)) 
+                    .Include(a => a.AccessoryCategories)
+                    .ToListAsync()
             });
         }
+
     }
 }

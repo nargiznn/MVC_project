@@ -14,6 +14,8 @@ namespace AspNet_project.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Article> Articles { get; set; }
         public DbSet<News> News { get; set; }
+        public DbSet<Accessory> Accessories { get; set; }
+        public DbSet<AccessoryCategory> AccessoryCategories { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> option) : base(option) { }
 
     }

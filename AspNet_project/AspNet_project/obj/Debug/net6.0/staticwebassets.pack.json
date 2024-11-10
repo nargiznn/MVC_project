@@ -349,6 +349,10 @@
       "PackagePath": "staticwebassets/assets/img/blog-3_2x.webp"
     },
     {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/brakedisc.jpg",
+      "PackagePath": "staticwebassets/assets/img/brakedisc.jpg"
+    },
+    {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card1-2.webp",
       "PackagePath": "staticwebassets/assets/img/card1-2.webp"
     },
@@ -383,6 +387,10 @@
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/card5-2.webp",
       "PackagePath": "staticwebassets/assets/img/card5-2.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/components.jpg",
+      "PackagePath": "staticwebassets/assets/img/components.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/flags/1x1/ad.svg",
@@ -1465,6 +1473,14 @@
       "PackagePath": "staticwebassets/assets/img/flags/1x1/zw.svg"
     },
     {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/floormats.jpg",
+      "PackagePath": "staticwebassets/assets/img/floormats.jpg"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/handbrakers.jpg",
+      "PackagePath": "staticwebassets/assets/img/handbrakers.jpg"
+    },
+    {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/home_html_1-2.PNG",
       "PackagePath": "staticwebassets/assets/img/home_html_1-2.PNG"
     },
@@ -1491,6 +1507,10 @@
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/payment_2x.webp",
       "PackagePath": "staticwebassets/assets/img/payment_2x.webp"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/seatcover.jpg",
+      "PackagePath": "staticwebassets/assets/img/seatcover.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/shop_images_footer_2x.webp",
@@ -1583,6 +1603,10 @@
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/vertical_icon_9.png",
       "PackagePath": "staticwebassets/assets/img/vertical_icon_9.png"
+    },
+    {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/wheels.jpg",
+      "PackagePath": "staticwebassets/assets/img/wheels.jpg"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/js/blog.js",
