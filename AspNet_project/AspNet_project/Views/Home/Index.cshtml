@@ -1058,72 +1058,28 @@
     <div class="col-12 col-md-6 mt-3">
         <span class="banner-header-text">Testimonials</span>
         <div class="owl-carousel-4 owl-carousel">
-            <div class="">
-                <div class="testimonials">
-                    <h5 class="text-center testimonials-header">
-                        This is gddg Photoshop's version of
-                        Lorem
-                        Ipsum.
-                        Proin
-                        gravida nibh vel velit auctor aliquet
-                        auctor, nisi elit consequat.nisi elit consequat.
-                    </h5>
-                    <div class="person justify-content-center d-flex mt-3">
-                        <div class="image-box">
-                            <img src="~/assets/img/testimonials_image_1_2x.jpg" alt=""
-                                 class="img-fluid pp">
-                        </div>
-                        <div class="person-info mx-2 mt-2">
-                            <span class="person-name">sylia williams</span><br>
-                            <span class="person-info">microsoft ceo</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="">
-                <div class="testimonials">
-                    <h5 class="text-center testimonials-header">
-                        This is gddg Photoshop's version of
-                        Lorem
-                        Ipsum.
-                        Proin
-                        gravida nibh vel velit auctor aliquet
-                        auctor, nisi elit consequat.nisi elit consequat.
-                    </h5>
-                    <div class="person justify-content-center d-flex mt-3">
-                        <div class="image-box">
-                            <img src="~/assets/img/testimonials_image_2_2x.webp" alt=""
-                                 class="img-fluid pp">
-                        </div>
-                        <div class="person-info mx-2 mt-2">
-                            <span class="person-name">jane peterson</span><br>
-                            <span class="person-info">creative manager</span>
+
+            @foreach (var item in Model.Testimonials)
+            {
+                <div class="">
+                    <div class="testimonials">
+                        <h5 class="text-center testimonials-header">
+                            @item.Title
+                        </h5>
+                        <div class="person justify-content-center d-flex mt-3">
+                            <div class="image-box">
+                                <img src="~/assets/img/@item.Image" alt=""
+                                     class="img-fluid pp">
+                            </div>
+                            <div class="person-info mx-2 mt-2">
+                                <span class="person-name">@item.Person</span><br>
+                                <span class="person-info">@item.Job</span>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="">
-                <div class="testimonials">
-                    <h5 class="text-center testimonials-header">
-                        This is gddg Photoshop's version of
-                        Lorem
-                        Ipsum.
-                        Proin
-                        gravida nibh vel velit auctor aliquet
-                        auctor, nisi elit consequat.nisi elit consequat.
-                    </h5>
-                    <div class="person justify-content-center d-flex mt-3">
-                        <div class="image-box">
-                            <img src="~/assets/img/testimonials_image_3_2x.webp" alt=""
-                                 class="img-fluid pp">
-                        </div>
-                        <div class="person-info mx-2 mt-2">
-                            <span class="person-name">joseph monroe</span><br>
-                            <span class="person-info">microsoft ceo</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            }
+
         </div>
     </div>
     </div>

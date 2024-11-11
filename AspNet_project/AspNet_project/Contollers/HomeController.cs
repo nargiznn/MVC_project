@@ -24,6 +24,7 @@ namespace AspNet_project.Controllers
                 SliderWords = await _context.SliderWords.OrderByDescending(sw => sw.Id).FirstOrDefaultAsync(),
                 Adverts = await _context.Adverts.OrderByDescending(mn => mn.Id).ToListAsync(),
                 News = await _context.News.ToListAsync(),
+                Testimonials = await _context.Testimonials.ToListAsync(),
                 Brands = await _context.Brands.OrderByDescending(mn => mn.Id).ToListAsync(),
                 Accessories = await _context.Accessories
                     .Where(a => a.AccessoryCategories.Any(ac => ac.AccessoryId == a.Id)) 
