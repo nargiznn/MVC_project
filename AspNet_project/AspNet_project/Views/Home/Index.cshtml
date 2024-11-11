@@ -1019,168 +1019,115 @@
     <section id="partners" class="mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-6">
-                    <span class="banner-header-text">Lastest News</span>
-                    <div class="lastest-news">
+                <div class="col-12 col-md-6 mt-3">
+                    <span class="banner-header-text">Latest News</span>
+                    <div class="latest-news">
                         <div class="owl-carousel-3 owl-carousel">
-                            <div class="">
-                                <div class="row">
-
-                                    <div class="col-12 col-lg-6">
-                                        <img src="~/assets/img/blog-3_2x.webp" alt="" class="img-fluid">
-                                    </div>
-                                    <div class="col-12 col-lg-6">
-                                        <h6 style="font-weight: 900; font-family: 'Raleway';text-transform: uppercase; font-size: 14px;">
-                                            Turpis at
-                                            eleifend leo mi elit Aenean porta ac sed faucibus
-                                        </h6>
-                                        <h6 class="mt-1 latest-news-text">
-                                            Mi vitae magnis Fusce laoreet nibh felis
-                                            porttitor
-                                            laoreet
-                                            Vestibulum faucibus. At Nulla
-                                            id tincidunt ut sed semper vel Lorem...
-                                        </h6>
-                                        <div class="d-flex justify-content-between align-items-center">
-
-                                            <span class="latest-news-date mt-1">March 17, 2015 0 comments</span>
-                                            <span class="latest-read-more me-4">
-                                                read more<i class="fa-solid fa-right-long"></i>
-                                            </span>
+                                @foreach (var newsItem in Model.News)
+                                {
+                                    <div class="">
+                                        <div class="row">
+                                            <div class="col-12 col-lg-6">
+                                                <img src="./assets/img/@newsItem.Image" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-12 col-lg-6">
+                                                <h6 style="font-weight: 900; font-family: 'Raleway'; text-transform: uppercase; font-size: 14px;">
+                                                    @newsItem.Title
+                                                </h6>
+                                                <h6 class="mt-1 latest-news-text" id="desc-@newsItem.Id">
+                                                    @newsItem.Desc.TruncateWords(15)
+                                                </h6>
+                                                <h6 class="mt-1 latest-news-text d-none" id="extra-desc-@newsItem.Id">
+                                                    @newsItem.Desc
+                                                </h6>
+                                                <div class="d-flex justify-content-between align-items-center">
+                                                    <span class="latest-news-date mt-1">
+                                                        @newsItem.CreateDate.ToString("MMMM dd, yyyy") • 0 comments
+                                                    </span>
+                                                    <span class="latest-read-more me-4" style="cursor: pointer;" onclick="toggleDescription(@newsItem.Id)">
+                                                        Read more <i class="fa-solid fa-right-long"></i>
+                                                    </span>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
+                                }
                             </div>
-                            <div class="">
-                                <div class="row">
-
-                                    <div class="col-12 col-lg-6">
-                                        <img src="~/assets/img/blog-1_2x.webp" alt="" class="img-fluid">
-                                    </div>
-                                    <div class="col-12 col-lg-6">
-                                        <h6 style="font-weight: 900; font-family: 'Raleway';text-transform: uppercase; font-size: 14px;">
-                                            Donec tellus Nulla lorem Nullam elit id ut elit feugiat lacus
-                                        </h6>
-                                        <h6 class="mt-1 latest-news-text">
-                                            Mi vitae magnis Fusce laoreet nibh felis
-                                            porttitor
-                                            laoreet
-                                            Vestibulum faucibus. At Nulla
-                                            id tincidunt ut sed semper vel Lorem...
-                                        </h6>
-                                        <div class="d-flex justify-content-between align-items-center">
-
-                                            <span class="latest-news-date mt-1">March 17, 2015 0 comments</span>
-                                            <span class="latest-read-more me-4">
-                                                read more<i class="fa-solid fa-right-long"></i>
-                                            </span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="">
-                                <div class="row">
-
-                                    <div class="col-12 col-lg-6">
-                                        <img src="~/assets/img/blog-1_2x.webp" alt="" class="img-fluid">
-                                    </div>
-                                    <div class="col-12 col-lg-6">
-                                        <h6 style="font-weight: 900; font-family: 'Raleway';text-transform: uppercase; font-size: 14px;">
-                                            Donec tellus Nulla lorem Nullam elit id ut elit feugiat lacus
-                                        </h6>
-                                        <h6 class="mt-1 latest-news-text">
-                                            Mi vitae magnis Fusce laoreet nibh felis
-                                            porttitor
-                                            laoreet
-                                            Vestibulum faucibus. At Nulla
-                                            id tincidunt ut sed semper vel Lorem...
-                                        </h6>
-                                        <div class="d-flex justify-content-between align-items-center">
-
-                                            <span class="latest-news-date mt-1">March 17, 2015 0 comments</span>
-                                            <span class="latest-read-more me-4">
-                                                read more<i class="fa-solid fa-right-long"></i>
-                                            </span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                        </div>
+                </div>
+    <div class="col-12 col-md-6 mt-3">
+        <span class="banner-header-text">Testimonials</span>
+        <div class="owl-carousel-4 owl-carousel">
+            <div class="">
+                <div class="testimonials">
+                    <h5 class="text-center testimonials-header">
+                        This is gddg Photoshop's version of
+                        Lorem
+                        Ipsum.
+                        Proin
+                        gravida nibh vel velit auctor aliquet
+                        auctor, nisi elit consequat.nisi elit consequat.
+                    </h5>
+                    <div class="person justify-content-center d-flex mt-3">
+                        <div class="image-box">
+                            <img src="~/assets/img/testimonials_image_1_2x.jpg" alt=""
+                                 class="img-fluid pp">
+                        </div>
+                        <div class="person-info mx-2 mt-2">
+                            <span class="person-name">sylia williams</span><br>
+                            <span class="person-info">microsoft ceo</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 mt-3">
-                    <span class="banner-header-text">Testimonials</span>
-                    <div class="owl-carousel-4 owl-carousel">
-                        <div class="">
-                            <div class="testimonials">
-                                <h5 class="text-center testimonials-header">
-                                    This is gddg Photoshop's version of
-                                    Lorem
-                                    Ipsum.
-                                    Proin
-                                    gravida nibh vel velit auctor aliquet
-                                    auctor, nisi elit consequat.nisi elit consequat.
-                                </h5>
-                                <div class="person justify-content-center d-flex mt-3">
-                                    <div class="image-box">
-                                        <img src="~/assets/img/testimonials_image_1_2x.jpg" alt=""
-                                             class="img-fluid pp">
-                                    </div>
-                                    <div class="person-info mx-2 mt-2">
-                                        <span class="person-name">sylia williams</span><br>
-                                        <span class="person-info">microsoft ceo</span>
-                                    </div>
-                                </div>
-                            </div>
+            </div>
+            <div class="">
+                <div class="testimonials">
+                    <h5 class="text-center testimonials-header">
+                        This is gddg Photoshop's version of
+                        Lorem
+                        Ipsum.
+                        Proin
+                        gravida nibh vel velit auctor aliquet
+                        auctor, nisi elit consequat.nisi elit consequat.
+                    </h5>
+                    <div class="person justify-content-center d-flex mt-3">
+                        <div class="image-box">
+                            <img src="~/assets/img/testimonials_image_2_2x.webp" alt=""
+                                 class="img-fluid pp">
                         </div>
-                        <div class="">
-                            <div class="testimonials">
-                                <h5 class="text-center testimonials-header">
-                                    This is gddg Photoshop's version of
-                                    Lorem
-                                    Ipsum.
-                                    Proin
-                                    gravida nibh vel velit auctor aliquet
-                                    auctor, nisi elit consequat.nisi elit consequat.
-                                </h5>
-                                <div class="person justify-content-center d-flex mt-3">
-                                    <div class="image-box">
-                                        <img src="~/assets/img/testimonials_image_2_2x.webp" alt=""
-                                             class="img-fluid pp">
-                                    </div>
-                                    <div class="person-info mx-2 mt-2">
-                                        <span class="person-name">jane peterson</span><br>
-                                        <span class="person-info">creative manager</span>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="person-info mx-2 mt-2">
+                            <span class="person-name">jane peterson</span><br>
+                            <span class="person-info">creative manager</span>
                         </div>
-                        <div class="">
-                            <div class="testimonials">
-                                <h5 class="text-center testimonials-header">
-                                    This is gddg Photoshop's version of
-                                    Lorem
-                                    Ipsum.
-                                    Proin
-                                    gravida nibh vel velit auctor aliquet
-                                    auctor, nisi elit consequat.nisi elit consequat.
-                                </h5>
-                                <div class="person justify-content-center d-flex mt-3">
-                                    <div class="image-box">
-                                        <img src="~/assets/img/testimonials_image_3_2x.webp" alt=""
-                                             class="img-fluid pp">
-                                    </div>
-                                    <div class="person-info mx-2 mt-2">
-                                        <span class="person-name">joseph monroe</span><br>
-                                        <span class="person-info">microsoft ceo</span>
-                                    </div>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="">
+                <div class="testimonials">
+                    <h5 class="text-center testimonials-header">
+                        This is gddg Photoshop's version of
+                        Lorem
+                        Ipsum.
+                        Proin
+                        gravida nibh vel velit auctor aliquet
+                        auctor, nisi elit consequat.nisi elit consequat.
+                    </h5>
+                    <div class="person justify-content-center d-flex mt-3">
+                        <div class="image-box">
+                            <img src="~/assets/img/testimonials_image_3_2x.webp" alt=""
+                                 class="img-fluid pp">
+                        </div>
+                        <div class="person-info mx-2 mt-2">
+                            <span class="person-name">joseph monroe</span><br>
+                            <span class="person-info">microsoft ceo</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+    </div>
+    </div>
     </section>
     <section id="brands">
         <div class="container mt-5">
@@ -1234,3 +1181,17 @@
         </div>
     </section>
 </main>
+<script>function toggleDescription(id) {
+        const descElement = document.getElementById(`desc-${id}`);
+        const extraDescElement = document.getElementById(`extra-desc-${id}`);
+
+        if (descElement.classList.contains('d-none')) {
+            descElement.classList.remove('d-none');
+            extraDescElement.classList.add('d-none');
+        } else {
+            descElement.classList.add('d-none');
+            extraDescElement.classList.remove('d-none');
+        }
+    }</script>
+
+
