@@ -1,4 +1,8 @@
-﻿@model Dictionary<string,string>
+﻿@model HeaderVM
+@inject ILayoutService _layoutService;
+@{
+    Dictionary<string, string> settings = await _layoutService.GetAllSettingAsync();
+}
 <header>
     <div class="sidebar">
         <div class="container mt-2">
@@ -51,17 +55,17 @@
                     <span class="navbar-top-left-span">
                         <i class="fa-solid fa-mobile-screen-button"></i> Call for support:
                     </span>
-                    @Model["Phone"]
+                    @Model.Settings["Phone"]
                 </button>
                 <button class="navbar-top-left-button align-items-center navbar-buttons">
                     <span class="navbar-top-right-span">
-                        <i class="fa-solid fa-envelope"></i> @Model["SalesEmail"]
+                        <i class="fa-solid fa-envelope"></i> @Model.Settings["SalesEmail"]
                     </span>
                 </button>
                 <span class="navbar-top-left-span">
                     Welcome visitor you can
                     <a asp-controller="Account" asp-action="Login" class="navbar-top-left-a">login</a> or
-                    <a asp-controller="Account" asp-action="Register"  class="navbar-top-left-a">create an account</a>
+                    <a asp-controller="Account" asp-action="Register" class="navbar-top-left-a">create an account</a>
                 </span>
             </div>
             <div class="right-navbar-items d-flex gap-2">
@@ -71,23 +75,19 @@
                                                             <div class="dropdown-div-user">
                                                                 <a href="#" class="d-block dropdown-links">Wishlist</a>
                                                                 <a href="#" class="d-block dropdown-links">Check Out</a>
-                                                                <a href="#" class="d-block dropdown-links">My Account</a>
+                                                                <a href="#" class="d-block dropdown-links">@Model.FullName</a>
+
                                                                 @if (User.Identity.IsAuthenticated)
                                                                 {
-                                                                    <a class="nav-link">@User.Identity.Name</a>
                                                                     <form class="nav-link d-inline" method="post" asp-controller="Account" asp-action="Logout">
                                                                         <button type="submit" class="btn btn-primary">Logout</button>
                                                                     </form>
                                                                 }
                                                                 else
                                                                 {
-                                                                    <li class="nav-item">
-                                                                        <a class="nav-link" asp-controller="Account" asp-action="Login">Login</a>
-                                                                    </li>
+                                                                    <a class="d-block dropdown-links" asp-controller="Account" asp-action="Login">Login</a>
+                                                                    <a class="d-block dropdown-links" asp-controller="Account" asp-action="Register">Register</a>
                                                                 }
-                                                                @*<a asp-controller="Account" asp-action="Login" class="d-block dropdown-links">Login</a>
-                                                                <a asp-controller="Account" asp-action="Register" class="d-block dropdown-links">Register</a>
-                                                                <a href="#" class="d-block dropdown-links">Logout</a>*@
                                                             </div>
                 </button>
                 <button class="navbar-top-right-button gear-button">
@@ -121,7 +121,7 @@
     <section id="navbar-menu">
         <div class="container h-100 d-flex">
             <div class="logo h-100">
-                <img src="~/assets/img/@Model["HeaderLogo"]" class="h-100" width="255" alt="">
+                <img src="~/assets/img/@Model.Settings["HeaderLogo"]" class="h-100" width="255" alt="">
             </div>
             <div style="width: 110px;">
 
@@ -254,9 +254,17 @@
             <button class="navbar-menu-buttons d-flex align-items-center">
                 <span>CONTACT</span>
             </button>
-            <button class="navbar-menu-buttons d-flex align-items-center">
-                <span>Admin</span>
-            </button>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                if (User.IsInRole("Admin") || User.IsInRole("SuperAdmin"))
+                {
+                    <button class="navbar-menu-buttons d-flex align-items-center">
+                        <a class="nav-link" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin</a>
+
+                    </button>
+                }
+            }
         </div>
     </section>
     <section id="navbar-menu-second" class="position-absolute">
