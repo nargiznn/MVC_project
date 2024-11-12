@@ -21,6 +21,8 @@ namespace AspNet_project.Controllers
         {
             return View(new HomeVM
             {
+                Products =await _context.Products.Include(m=>m.ProductImages).ToListAsync(),
+                ProductImages=await _context.ProductImages.ToListAsync(),
                 Sliders = await _context.Sliders.ToListAsync(),
                 SliderWords = await _context.SliderWords.OrderByDescending(sw => sw.Id).FirstOrDefaultAsync(),
                 Adverts = await _context.Adverts.OrderByDescending(mn => mn.Id).ToListAsync(),
@@ -31,7 +33,7 @@ namespace AspNet_project.Controllers
                     .Where(a => a.AccessoryCategories.Any(ac => ac.AccessoryId == a.Id)) 
                     .Include(a => a.AccessoryCategories)
                     .ToListAsync()
-            });
+            });;
         }
 
     }

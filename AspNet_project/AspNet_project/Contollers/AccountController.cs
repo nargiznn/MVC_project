@@ -14,6 +14,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AspNet_project.Contollers
 {
+
     public class AccountController : Controller
     {
         private readonly UserManager<AppUser> _userManager;
