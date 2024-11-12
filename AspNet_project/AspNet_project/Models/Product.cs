@@ -11,7 +11,7 @@ namespace AspNet_project.Models
         public int? CategoryId { get; set; }
         public Category Category { get; set; }
         public List<ProductImage> ProductImages { get; set; }
-        //public ICollection<ProductImage> ProductImages { get; set; }
+
 
 
 
