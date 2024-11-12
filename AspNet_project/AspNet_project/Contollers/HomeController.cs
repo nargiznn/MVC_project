@@ -21,6 +21,7 @@ namespace AspNet_project.Controllers
         {
             return View(new HomeVM
             {
+
                 Products =await _context.Products.Include(m=>m.ProductImages).ToListAsync(),
                 ProductImages=await _context.ProductImages.ToListAsync(),
                 Sliders = await _context.Sliders.ToListAsync(),
