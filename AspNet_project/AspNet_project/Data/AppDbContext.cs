@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AspNet_project.Data
 {
-    public class AppDbContext: DbContext
+    public class AppDbContext: IdentityDbContext<AppUser>
     {
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<SliderWords> SliderWords { get; set; }
@@ -18,6 +18,6 @@ namespace AspNet_project.Data
         public DbSet<Testimonial> Testimonials { get; set; }
         public DbSet<AccessoryCategory> AccessoryCategories { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> option) : base(option) { }
-
+         
     }
 }

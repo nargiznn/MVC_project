@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t08cReS9jfLIsUcfr/6n9YygQTEsRc0CP811rirOHSc=",
+  "Hash": "OAfRMWUx/IdOPG/15yNN+vSukRCYPM4OuI5D0jpcExg=",
   "Source": "AspNet_project",
   "BasePath": "_content/AspNet_project",
   "Mode": "Default",
@@ -6494,12 +6494,12 @@
       "OriginalItemSpec": "wwwroot/assets/img/slideshow_image_1.webp"
     },
     {
-      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.jpg",
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.webp",
       "SourceId": "AspNet_project",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
       "BasePath": "_content/AspNet_project",
-      "RelativePath": "assets/img/testimonials_image_1_2x.jpg",
+      "RelativePath": "assets/img/testimonials_image_1_2x.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6508,7 +6508,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/img/testimonials_image_1_2x.jpg"
+      "OriginalItemSpec": "wwwroot/assets/img/testimonials_image_1_2x.webp"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_2_2x.webp",

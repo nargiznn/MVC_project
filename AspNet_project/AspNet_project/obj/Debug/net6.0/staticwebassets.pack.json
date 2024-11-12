@@ -1525,8 +1525,8 @@
       "PackagePath": "staticwebassets/assets/img/slideshow_image_1.webp"
     },
     {
-      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.jpg",
-      "PackagePath": "staticwebassets/assets/img/testimonials_image_1_2x.jpg"
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_1_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/testimonials_image_1_2x.webp"
     },
     {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/assets/img/testimonials_image_2_2x.webp",

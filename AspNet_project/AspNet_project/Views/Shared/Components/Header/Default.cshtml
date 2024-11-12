@@ -60,21 +60,35 @@
                 </button>
                 <span class="navbar-top-left-span">
                     Welcome visitor you can
-                    <a href="" class="navbar-top-left-a">login</a> or
-                    <a href="" class="navbar-top-left-a">create an account</a>
+                    <a asp-controller="Account" asp-action="Login" class="navbar-top-left-a">login</a> or
+                    <a asp-controller="Account" asp-action="Register"  class="navbar-top-left-a">create an account</a>
                 </span>
             </div>
             <div class="right-navbar-items d-flex gap-2">
                 <button class="navbar-top-right-button user-button">
                     <i class="fa-solid fa-user "></i>
                     <i class="fa-solid fa-chevron-down"></i><br>
-                    <div class="dropdown-div-user">
-                        <a href="#" class="d-block dropdown-links">Wishlist</a>
-                        <a href="#" class="d-block dropdown-links">Check Out</a>
-                        <a href="#" class="d-block dropdown-links">My Account</a>
-                        <a href="#" class="d-block dropdown-links">Log in</a>
-                        <a href="#" class="d-block dropdown-links">Register</a>
-                    </div>
+                                                            <div class="dropdown-div-user">
+                                                                <a href="#" class="d-block dropdown-links">Wishlist</a>
+                                                                <a href="#" class="d-block dropdown-links">Check Out</a>
+                                                                <a href="#" class="d-block dropdown-links">My Account</a>
+                                                                @if (User.Identity.IsAuthenticated)
+                                                                {
+                                                                    <a class="nav-link">@User.Identity.Name</a>
+                                                                    <form class="nav-link d-inline" method="post" asp-controller="Account" asp-action="Logout">
+                                                                        <button type="submit" class="btn btn-primary">Logout</button>
+                                                                    </form>
+                                                                }
+                                                                else
+                                                                {
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link" asp-controller="Account" asp-action="Login">Login</a>
+                                                                    </li>
+                                                                }
+                                                                @*<a asp-controller="Account" asp-action="Login" class="d-block dropdown-links">Login</a>
+                                                                <a asp-controller="Account" asp-action="Register" class="d-block dropdown-links">Register</a>
+                                                                <a href="#" class="d-block dropdown-links">Logout</a>*@
+                                                            </div>
                 </button>
                 <button class="navbar-top-right-button gear-button">
                     <i class="fa-solid fa-gear"></i>
@@ -239,6 +253,9 @@
             </button>
             <button class="navbar-menu-buttons d-flex align-items-center">
                 <span>CONTACT</span>
+            </button>
+            <button class="navbar-menu-buttons d-flex align-items-center">
+                <span>Admin</span>
             </button>
         </div>
     </section>

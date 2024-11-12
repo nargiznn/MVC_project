@@ -59,7 +59,7 @@ namespace AspNet_project.Contollers
             }
             var claims = new List<Claim>
             {
-                new Claim("FullName", user.FullName)
+             new Claim("FullName", user.FullName)
            };
             await _userManager.AddClaimsAsync(user, claims);
             await _userManager.AddToRoleAsync(user, Roles.Member.ToString());
@@ -117,6 +117,7 @@ namespace AspNet_project.Contollers
         //    return Ok();
 
         //}
+
     }
 }
 

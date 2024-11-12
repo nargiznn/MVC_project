@@ -1,23 +1,25 @@
 ﻿<Properties StartupConfiguration="{153EF14A-B666-4470-9A0D-1D5BAC251F7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AspNet_project" expanded="True">
+          <Node name="AspNet_project">
             <Node name="AspNet_project">
-              <Node name="Helpers" expanded="True" />
+              <Node name="Areas" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="Interfaces" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="HomeVM.cs" selected="True" />
               </Node>
-              <Node name="ViewComponents" expanded="True" />
               <Node name="Views">
-                <Node name="Home">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True" />
-                </Node>
+                <Node name="Blog" expanded="True" />
+                <Node name="Collection" expanded="True" />
+                <Node name="Home" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="assets" expanded="True" />
@@ -30,10 +32,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
