@@ -9,6 +9,7 @@ namespace AspNet_project.Models
         public string Title { get; set; }
         public string MainText { get; set; }
         public string Subtitle { get; set; }
+        public bool IsMain { get; set; } = false;
 
     }
 }

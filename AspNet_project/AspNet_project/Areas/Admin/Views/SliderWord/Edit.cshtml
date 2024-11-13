@@ -1,0 +1,27 @@
+﻿@model SliderWords
+
+<div class="container mt-5">
+    <h3 class="text-center">Edit Slider Word</h3>
+    <form asp-action="Edit" method="post">
+        <div class="form-group">
+            <label for="Title">Title</label>
+            <input type="text" asp-for="Title" class="form-control mt-2" value="@Model.Title" placeholder="Enter title">
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="MainText">Main Text</label>
+            <textarea asp-for="MainText" class="form-control mt-2" rows="4" placeholder="Enter main text">@Model.MainText</textarea>
+            <span asp-validation-for="MainText" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Subtitle">Subtitle</label>
+            <input type="text" asp-for="Subtitle" class="form-control mt-2" value="@Model.Subtitle" placeholder="Enter subtitle">
+            <span asp-validation-for="Subtitle" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3">Save Changes</button>
+        <a asp-action="Index" class="btn btn-primary mt-3">Cancel</a>
+    </form>
+</div>

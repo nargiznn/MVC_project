@@ -33,6 +33,7 @@
     <Folder Include="Areas\Admin\Views\Slider\" />
     <Folder Include="ViewModels\Admin\" />
     <Folder Include="ViewModels\Admin\Slider\" />
+    <Folder Include="Areas\Admin\Views\SliderWord\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -74,6 +75,7 @@
     <None Remove="Areas\Admin\Views\Slider\" />
     <None Remove="ViewModels\Admin\" />
     <None Remove="ViewModels\Admin\Slider\" />
+    <None Remove="Areas\Admin\Views\SliderWord\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\admin\" />

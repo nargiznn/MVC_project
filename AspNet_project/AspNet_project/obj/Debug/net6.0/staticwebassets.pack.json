@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/admin/assets/.DS_Store"
     },
     {
+      "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/EmptyCSSFile.css",
+      "PackagePath": "staticwebassets/admin/assets/css/EmptyCSSFile.css"
+    },
+    {
       "Id": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/animate.min.css",
       "PackagePath": "staticwebassets/admin/assets/css/animate.min.css"
     },

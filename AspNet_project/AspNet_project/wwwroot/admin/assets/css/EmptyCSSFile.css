@@ -1,0 +1,5 @@
+﻿.btn-disabled-custom {
+    cursor: not-allowed !important;
+    pointer-events: none !important;
+    opacity: 0.5 !important;
+}

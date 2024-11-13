@@ -23,7 +23,7 @@ namespace AspNet_project.Controllers
                 Products =await _context.Products.Include(m=>m.ProductImages).ToListAsync(),
                 ProductImages=await _context.ProductImages.ToListAsync(),
                 Sliders = await _context.Sliders.OrderByDescending(m=>m.Id).ToListAsync(),
-                SliderWords = await _context.SliderWords.OrderByDescending(sw => sw.Id).FirstOrDefaultAsync(),
+                SliderWords = await _context.SliderWords.FirstOrDefaultAsync(m=>m.IsMain),
                 Adverts = await _context.Adverts.OrderByDescending(mn => mn.Id).ToListAsync(),
                 News = await _context.News.ToListAsync(),
                 Testimonials = await _context.Testimonials.ToListAsync(),

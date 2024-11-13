@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OAfRMWUx/IdOPG/15yNN+vSukRCYPM4OuI5D0jpcExg=",
+  "Hash": "cDgO0qx7bRz9GW69EeKQ/OKYFF8th2U0PIyB3RGIxzY=",
   "Source": "AspNet_project",
   "BasePath": "_content/AspNet_project",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/admin/assets/css/demo.css"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/EmptyCSSFile.css",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "admin/assets/css/EmptyCSSFile.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/admin/assets/css/EmptyCSSFile.css"
     },
     {
       "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/admin/assets/css/light-bootstrap-dashboard.css",

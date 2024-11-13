@@ -13,7 +13,8 @@
     }
 }
 
-.all-icons [class*="pe-"]{
+
+.all-icons [class*="pe-"] {
     font-size: 40px;
 }
 .all-icons input{
