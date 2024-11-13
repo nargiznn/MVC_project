@@ -154,56 +154,34 @@
                     <span class="banner-header-text">Best Sellers</span>
                     <div class="product-type-box">
                         <div class="row p-3">
-                            <div class="col-12" style="border-bottom: 1px solid rgba(0,0,0,.1);;">
-                                <div class="d-flex align-items-center">
-                                    <div style="width: 100px; height: 70.5px;" class="mt-2">
-                                        <img src="~/assets/img/card2-2.webp" class="img-fluid" alt="">
-                                    </div>
-                                    <div>
-                                        <h6 class="p-2">Quam vitnibh aliqueobo</h6>
-                                        <span class="card-price">$450.00</span>
-                                    </div>
+                            @foreach (var item in Model.Products.OrderByDescending(p => p.SalesCount).Take(4))
+                            {
+                                <div class="col-12" style="border-bottom: 1px solid rgba(0,0,0,.1);;">
+                                    <div class="d-flex align-items-center">
+                                        <div style="width: 100px; height: 70.5px;" class="mt-2">
+                                            <img src="~/assets/img/@item.ProductImages.FirstOrDefault(i => i.IsMain)?.Image" alt="" class="img-fluid">
+                                        </div>
+                                        <div>
+                                            <h6 class="p-2">@item.Title</h6>
+                     
+                                            @if (item.DiscountPrice < item.Price && item.DiscountPrice > 0)
+                                            {
+               
 
-                                </div>
-                            </div>
-                            <div class="col-12" style="border-bottom: 1px solid rgba(0,0,0,.1);;">
-                                <div class="d-flex align-items-center">
-                                    <div style="width: 100px; height: 70.5px;" class="mt-2">
-                                        <img src="~/assets/img/card3-2.webp" class="img-fluid" alt="">
-                                    </div>
-                                    <div>
-                                        <h6 class="p-2">Quam vitnibh aliqueobo</h6>
-                                        <span class="card-discount-price">$120.00</span>
-                                        <span class="card-price">$65.00</span>
-                                    </div>
+                                                    <span class="card-discount-price">$@item.Price.ToString("F2")</span>
+                                                    <span class="card-price">$@item.DiscountPrice.ToString("F2")</span>
+                                                
+                                            }
+                                            else
+                                            {
+                                                <span class="card-price">$@item.DiscountPrice.ToString("F2")</span>
+                                            }
+                                        </div>
 
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-12" style="border-bottom: 1px solid rgba(0,0,0,.1);;">
-                                <div class="d-flex align-items-center">
-                                    <div style="width: 100px; height: 70.5px;" class="mt-2">
-                                        <img src="~/assets/img/card4-2.webp" class="img-fluid" alt="">
-                                    </div>
-                                    <div>
-                                        <h6 class="p-2">Quam vitnibh aliqueobo</h6>
-                                        <span class="card-discount-price">$120.00</span>
-                                        <span class="card-price">$65.00</span>
-                                    </div>
+                            }
 
-                                </div>
-                            </div>
-                            <div class="col-12" style="border-bottom: 1px solid rgba(0,0,0,.1);;">
-                                <div class="d-flex align-items-center">
-                                    <div style="width: 100px; height: 70.5px;" class="mt-2">
-                                        <img src="~/assets/img/card5-2.webp" class="img-fluid" alt="">
-                                    </div>
-                                    <div>
-                                        <h6 class="p-2">Quam vitnibh aliqueobo</h6>
-                                        <span class="card-discount-price">$120.00</span>
-                                        <span class="card-price">$65.00</span>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <span class="banner-header-text">Recently Viewed</span>

@@ -52,6 +52,7 @@ namespace AspNet_project.Contollers
             }
             var products = await productsQuery.ToListAsync();
 
+
             return View(new CollectionVM
             {
                 Products = products,

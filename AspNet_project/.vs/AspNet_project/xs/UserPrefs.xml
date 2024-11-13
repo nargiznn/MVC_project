@@ -1,20 +1,22 @@
 ﻿<Properties StartupConfiguration="{153EF14A-B666-4470-9A0D-1D5BAC251F7B}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AspNet_project">
             <Node name="AspNet_project">
-              <Node name="Helpers" expanded="True">
-                <Node name="Enums" expanded="True" />
-              </Node>
-              <Node name="ViewModels">
-                <Node name="Account" expanded="True" />
-                <Node name="HeaderVM.cs" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="CollectionVM.cs" selected="True" />
               </Node>
               <Node name="Views">
-                <Node name="Account" expanded="True" />
+                <Node name="Blog" expanded="True" />
                 <Node name="Home" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
@@ -27,10 +29,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
