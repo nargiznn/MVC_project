@@ -28,6 +28,8 @@
     <Folder Include="Views\Shared\Components\" />
     <Folder Include="Views\Shared\Components\Header\" />
     <Folder Include="Views\Shared\Components\Footer\" />
+    <Folder Include="Areas\Admin\Views\Category\" />
+    <Folder Include="Areas\Admin\Views\Article\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -64,6 +66,8 @@
     <None Remove="Views\Shared\Components\" />
     <None Remove="Views\Shared\Components\Header\" />
     <None Remove="Views\Shared\Components\Footer\" />
+    <None Remove="Areas\Admin\Views\Category\" />
+    <None Remove="Areas\Admin\Views\Article\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\admin\" />

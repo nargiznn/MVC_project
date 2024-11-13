@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AspNet_project.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "SuperAdmin,Admin")]
+    //[Authorize(Roles = "SuperAdmin,Admin")]
     public class DashboardController : Controller
     {
         // GET: /<controller>/
