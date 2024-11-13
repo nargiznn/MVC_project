@@ -224,9 +224,9 @@
                         <button class="carousel-button"><i class="fa-solid fa-chevron-right"></i></button>
                     </div>
                 </div>
-                @foreach (var item in Model.Products)
+                @foreach (var item in Model.Products.Take(8))
                 {
-                    <div class="col-xs-6 col-sm-6 col-lg-3">
+                    <div class="col-xs-6 col-sm-6 col-lg-3 mt-4">
                         <div class="big-card">
                             <h6 class="card-top-title">@item.Title</h6>
                             <div class="card-img">

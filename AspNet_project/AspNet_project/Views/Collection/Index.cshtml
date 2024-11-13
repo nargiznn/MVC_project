@@ -207,24 +207,15 @@
                     <div class="bg-white sort-by-featured-shop d-flex justify-content-between">
                         <div class="p-2">
                             <span style="font-family: 'Raleway'; font-size: 14px;">Sort by</span>
-                            <select name="SortBy" id="sort-by-dropdown" class="custom-dropdown">
+                            <select name="SortBy" id="sort-by-dropdown" class="custom-dropdown" onchange="sortProducts()">
                                 <option value="featured" class="dropdown-option">Featured</option>
                                 <option value="best-selling" class="dropdown-option">Best Selling</option>
-                                <option value="alphabetically-az" class="dropdown-option">
-                                    Alphabetically, A-Z
-                                </option>
-                                <option value="alphabetically-za" class="dropdown-option">
-                                    Alphabetically, Z-A
-                                </option>
-                                <option value="price-low-to-high" class="dropdown-option">
-                                    Price, low to high
-                                </option>
-                                <option value="price-high-to-low" class="dropdown-option">
-                                    Price, high to low
-                                </option>
-                                <option value="date-new-to-old" class="dropdown-option">Date, new to old</option>
-                                <option value="date-old-to-new" class="dropdown-option">Date, old to new</option>
+                                <option value="alphabetically-az" class="dropdown-option">Alphabetically, A-Z</option>
+                                <option value="alphabetically-za" class="dropdown-option">Alphabetically, Z-A</option>
+                                <option value="price-low-to-high" class="dropdown-option">Price, low to high</option>
+                                <option value="price-high-to-low" class="dropdown-option">Price, high to low</option>
                             </select>
+
 
                         </div>
                         <div class="p-2 d-flex layout-icons">
@@ -310,23 +301,37 @@
                     </div>
                     <div class="row bg-white mt-2">
                         <div class="col-12 mb-2 justify-content-center align-items-center d-flex">
-                            <div class="next-button-products mt-2 d-flex justify-content-center align-items-center">
-                                <i class="fa-solid fa-angle-left"></i>
-                            </div>
-                            <div style="background-color: black; color: white !important;" class="next-button-products mt-2 d-flex justify-content-center align-items-center">
-                                <span style="font-family: 'Raleway';">1</span>
-                            </div>
-                            <div class="next-button-products mt-2 d-flex justify-content-center align-items-center">
-                                <span style="font-family: 'Raleway';">2</span>
-                            </div>
-                            <div class="next-button-products mt-2 d-flex justify-content-center align-items-center">
-                                <i class="fa-solid fa-angle-right"></i>
-                            </div>
+                            @if (Model.Products.HasPreviousPage)
+                            {
+                                <a href="@Url.Action("Index", "Collection", new { page = Model.Products.PageIndex - 1, priceRange = Model.PriceRange })" class="next-button-products mt-2 d-flex justify-content-center align-items-center">
+                                    <i class="fa-solid fa-angle-left"></i>
+                                </a>
+                            }
+                            @for (int i = 1; i <= Model.Products.TotalPages; i++)
+                            {
+                                <a href="@Url.Action("Index", "Collection", new { page = i, priceRange = Model.PriceRange })" class="next-button-products mt-2 d-flex justify-content-center align-items-center" style="@(i == Model.Products.PageIndex ? "background-color: black; color: white;" : "")">
+                                    <span style="font-family: 'Raleway';">@i</span>
+                                </a>
+                            }
+                            @if (Model.Products.HasNextPage)
+                            {
+                                <a href="@Url.Action("Index", "Collection", new { page = Model.Products.PageIndex + 1, priceRange = Model.PriceRange })" class="next-button-products mt-2 d-flex justify-content-center align-items-center">
+                                    <i class="fa-solid fa-angle-right"></i>
+                                </a>
+                            }
                         </div>
                     </div>
+
+
                 </div>
             </div>
         </div>
     </section>
 
 </main>
+<script>
+    function sortProducts() {
+        var sortBy = document.getElementById("sort-by-dropdown").value;
+        window.location.href = '@Url.Action("Index", "Collection")' + '?sortBy=' + sortBy;
+    }
+</script>
