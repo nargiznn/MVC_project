@@ -9,7 +9,7 @@ namespace AspNet_project.Models
         public string Image { get; set; }
         [NotMapped]
         [Required]
-        public IFormFile Photo { get; set; }
+        public List<IFormFile> Photos { get; set; }
     }
 }
 

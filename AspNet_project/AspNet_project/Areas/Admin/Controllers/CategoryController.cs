@@ -49,37 +49,47 @@ namespace AspNet_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Article article)
+        public async Task<IActionResult> Create(Category category)
         {
             if (!ModelState.IsValid)
             {
                 return View();
             }
-
-            bool hasArticle = await _context.Articles.AnyAsync(m => m.Desc.Trim() == article.Desc.Trim());
-
-            if (hasArticle)
+            bool hasCategory = await _context.Categories.AnyAsync(m => m.Name.Trim() == category.Name.Trim());
+            if (hasCategory)
             {
-                ModelState.AddModelError("Desc", "Desc already exist");
+                ModelState.AddModelError("Name", "Category already exist");
                 return View();
             }
-            article.CreateDate = DateTime.Now;
 
-            await _context.Articles.AddAsync(article);
+            await _context.Categories.AddAsync(new Category { Name = category.Name });
             await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
         }
-
-
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
-            Category existProduct = await _context.Categories.FirstOrDefaultAsync(m => m.Id == id);
-            _context.Categories.Remove(existProduct);
-            await _context.SaveChangesAsync();
-            return Ok(id);
+            var category = await _context.Categories.FirstOrDefaultAsync(m => m.Id == id);
+            if (category == null)
+            {
+                return NotFound();
+            }
+            try
+            {
+                _context.Categories.Remove(category);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                TempData["Error"] = "An error occurred while deleting the category.";
+                return RedirectToAction(nameof(Index));
+            }
         }
+
+
 
         [HttpGet]
         public async Task<IActionResult> Edit(int? id)
@@ -95,27 +105,28 @@ namespace AspNet_project.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int? id, Article article)
+        public async Task<IActionResult> Edit(int? id, Category category)
         {
             if (id is null) return BadRequest();
 
-            Article existArticle = await _context.Articles.FirstOrDefaultAsync(m => m.Id == id);
+            Category existCategory = await _context.Categories.FirstOrDefaultAsync(m => m.Id == id);
 
-            if (existArticle is null) return NotFound();
+            if (existCategory is null) return NotFound();
 
             if (!ModelState.IsValid)
             {
                 return View();
             }
 
-            bool hasArticle = await _context.Articles.AnyAsync(m => m.Desc.Trim() == article.Desc.Trim() && m.Id != id);
+            bool hasCategory = await _context.Categories.AnyAsync(m => m.Name.Trim() == category.Name.Trim() && m.Id != id);
 
-            if (hasArticle)
+            if (hasCategory)
             {
-                ModelState.AddModelError("Desc", "Desc already exists");
+                ModelState.AddModelError("Name", "Category already exist");
                 return View();
             }
-            existArticle.Desc = article.Desc;
+
+            existCategory.Name = category.Name;
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));

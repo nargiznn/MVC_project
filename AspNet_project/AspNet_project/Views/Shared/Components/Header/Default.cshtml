@@ -19,8 +19,8 @@
                 <a href="./index.html" class="sidebar-link">></a>
             </div>
             <div class="d-flex justify-content-between mt-3">
-                <a asp-controller="Collection" asp-action="Index"class="sidebar-link">Collection</a>
-                <a href="./shop.html" class="sidebar-link">></a>
+                <a asp-controller="Collection" asp-action="Index" class="sidebar-link">Collection</a>
+                <a asp-controller="Collection" asp-action="Index" class="sidebar-link">></a>
             </div>
             <div class="d-flex justify-content-between mt-3">
                 <a href="./product.html" class="sidebar-link">Product</a>
@@ -31,12 +31,13 @@
                 <a href="#" class="sidebar-link">></a>
             </div>
             <div class="d-flex justify-content-between mt-3">
-                <a href="#" class="sidebar-link">Feature</a>
+                <a  asp-controller="Blog" asp-action="Index"  class="sidebar-link">Feature</a>
                 <a href="#" class="sidebar-link">></a>
             </div>
             <div class="d-flex justify-content-between mt-3">
                 <a asp-controller="Blog" asp-action="Index" class="sidebar-link">Blog</a>
             </div>
+
             <div class="d-flex justify-content-between mt-3">
                 <a href="#" class="sidebar-link">Shortcode</a>
                 <a href="#" class="sidebar-link">></a>
@@ -127,7 +128,7 @@
 
             </div>
             <button class="navbar-menu-buttons navbar-home-button d-flex position-relative">
-                <span class="home-button">HOME </span>
+                <span class="home-button"><a asp-controller="Home" asp-action="Index" style="color: black;">Home</a></span>
                 <div class="position-absolute home-dropdown">
                     <ul class="mt-2">
                         <li class="mt-4">Home Style 1</li>
@@ -140,7 +141,7 @@
                 </div>
             </button>
             <button class="navbar-menu-buttons navbar-collection-button align-items-center position-relative">
-                <span> <a href="./shop.html" style="color: black;">COLLECTION</a> <i class="fa-solid fa-sort-down"></i></span>
+                <span> <a asp-controller="Collection" asp-action="Index" style="color: black;">COLLECTION</a> <i class="fa-solid fa-sort-down"></i></span>
                 <div class="position-absolute collection-dropdown">
                     <ul class="mt-2">
                         <li>Left Sidebar Grid</li>
@@ -236,7 +237,7 @@
                 </div>
             </button>
             <button class="navbar-menu-buttons d-flex align-items-center">
-                <span><a href="./blog.html" style="color: black;">BLOG</a></span>
+                <span><a asp-controller="Blog" asp-action="Index" style="color: black;">BLOG</a></span>
             </button>
             <button class="navbar-menu-buttons navbar-shortcode-button position-relative d-flex align-items-center">
                 <span>SHORTCODE</span>
