@@ -21,7 +21,7 @@ namespace AspNet_project.Contollers
             _context = context;
         }
 
-        public async Task<IActionResult> Index(string size, string priceRange, string sortBy, int page = 1, int pageSize = 6)
+        public async Task<IActionResult> Index(string size, string priceRange, string sortBy, int? productTypeId, int page = 1, int pageSize = 6)
         {
             var productsQuery = _context.Products
                 .Include(m => m.ProductImages)
@@ -50,6 +50,10 @@ namespace AspNet_project.Contollers
                         break;
                 }
             }
+                if (productTypeId.HasValue)
+    {
+        productsQuery = productsQuery.Where(p => p.ProductTypes.Any(t => t.Id == productTypeId.Value));
+    }
             switch (sortBy)
             {
                 case "alphabetically-az":
