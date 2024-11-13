@@ -6,6 +6,8 @@ namespace AspNet_project.Data
 {
     public class AppDbContext: IdentityDbContext<AppUser>
     {
+        public DbSet<TypeModel> TypeModels { get; set; }
+        public DbSet<ProductType> ProductTypes { get; set; }
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<SliderWords> SliderWords { get; set; }
         public DbSet<Product> Products { get; set; }
