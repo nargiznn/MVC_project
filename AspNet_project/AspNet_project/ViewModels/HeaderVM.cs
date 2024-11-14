@@ -10,6 +10,7 @@ namespace AspNet_project.ViewModels
 
         public Dictionary<string, string> Settings { get; set; }
         public int BasketCount { get; set; }
+        public double TotalPrice { get; set; }
     }
 }
 

@@ -1,5 +1,6 @@
 ﻿using System;
 using AspNet_project.Models;
+using AspNet_project.ViewModels;
 using AspNet_project.ViewModels.Admin.Product;
 using AspNet_project.ViewModels.Admin.Slider;
 using AutoMapper;
@@ -16,7 +17,12 @@ namespace AspNet_project.Mapping
                     .ForMember(dest => dest.MainImage, opt => opt.MapFrom(src => src.ProductImages.FirstOrDefault(m => m.IsMain).Image));
 
             CreateMap<Product, SingleProductVM>()
-                .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Name));
+                        .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Name))
+                        .ForMember(dest => dest.Images, opt => opt.MapFrom(src => src.ProductImages.Select(pi => new ProductImageVM
+                        {
+                            Image = pi.Image,
+                            IsMain = pi.IsMain
+                        }).ToList()));
         }
     }
 }

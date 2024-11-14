@@ -12,6 +12,7 @@ namespace AspNet_project.Controllers
     {
         private readonly AppDbContext _context;
         private readonly IHttpContextAccessor _httpContext;
+
         public HomeController(AppDbContext context,
             IHttpContextAccessor httpContext)
         {

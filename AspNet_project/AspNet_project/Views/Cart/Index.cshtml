@@ -1,0 +1,119 @@
+﻿@model List<BasketDetailVM>
+
+<div class="container mt-5">
+    <h1 class="text-center">Shopping Cart</h1>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover">
+            <thead class="thead-light text-center">
+                <tr>
+                    <th>Image</th>
+                    <th>Title</th>
+                    <th>Count</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr id="product-row-@item.ProductId">
+                        <td class="text-center align-middle">
+                            <img src="~/assets/img/@item.Image" class="img-thumbnail" style="width:200px; height:auto;" alt="Product Image">
+                        </td>
+                        <td class="text-center align-middle" style="width:100px">
+                            @item.Title
+                        </td>
+                        <td class="text-center align-middle" style="width:150px">
+                            <div class="d-flex justify-content-center align-items-center">
+                                <button class="btn btn-secondary btn-sm" onclick="updateQuantity(@item.ProductId, -1, @item.Price)">-</button>
+                                <input type="number" id="product-@item.ProductId" class="form-control form-control-sm mx-2" value="@item.ProductCount" style="width: 60px;" readonly />
+                                <button class="btn btn-secondary btn-sm" onclick="updateQuantity(@item.ProductId, 1, @item.Price)">+</button>
+                            </div>
+                        </td>
+                        <td class="text-center align-middle" style="width:100px">
+                            $@item.Price
+                        </td>
+                        <td class="text-center align-middle" style="width:100px">
+                            $<span id="total-@item.ProductId">@item.Total</span>
+                        </td>
+                        <td class="text-center align-middle" style="width:100px">
+                            <button class="btn btn-danger btn-sm" onclick="deleteProduct(@item.ProductId, @item.Total)">Delete</button>
+                        </td>
+                    </tr>
+                }
+                @if (!Model.Any())
+                {
+                    <tr>
+                        <td colspan="6" class="text-center text-muted">No product</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="text-center">
+            <h4>Total Order Price: $<span id="order-total">@Model.Sum(item => item.Total).ToString("F2")</span></h4>
+        </div>
+
+        <div class="container mt-5 text-center">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary mt-6 px-4">Continue shopping</a>
+        </div>
+    </div>
+</div>
+
+<script>function updateQuantity(productId, change, price) {
+    var quantityInput = document.getElementById('product-' + productId);
+    var totalPriceElement = document.getElementById('total-' + productId);
+    
+    var currentQuantity = parseInt(quantityInput.value);
+    var newQuantity = currentQuantity + change;
+
+    if (newQuantity >= 0) {
+        quantityInput.value = newQuantity;
+        var newTotal = newQuantity * price;
+        totalPriceElement.textContent = newTotal.toFixed(2);
+
+        updateBasket(productId, newQuantity);
+
+        updateOrderTotal();
+    }
+}
+
+function deleteProduct(productId, productTotal) {
+    var productRow = document.getElementById('product-row-' + productId);
+    productRow.remove();
+    updateBasket(productId, 0);
+
+    updateOrderTotal();
+}
+
+function updateBasket(productId, quantity) {
+    $.ajax({
+        url: '/Cart/UpdateBasket', 
+        type: 'POST',
+        data: {
+            productId: productId,
+            quantity: quantity
+        },
+        success: function (response) {
+            $('#cart-item-count').text(response.basketCount);
+            $('#cart-total-price').text(response.totalPrice.toFixed(2));
+        },
+        error: function (error) {
+            console.error('Error updating the basket:', error);
+        }
+    });
+}
+
+function updateOrderTotal() {
+    var orderTotal = 0;
+    var productRows = document.querySelectorAll('tr[id^="product-row-"]');
+    productRows.forEach(function (row) {
+        var productId = row.id.replace('product-row-', '');
+        var productTotal = parseFloat(document.getElementById('total-' + productId).textContent.replace('$', ''));
+        orderTotal += productTotal;
+    });
+    document.getElementById('order-total').textContent = orderTotal.toFixed(2);
+}
+</script>

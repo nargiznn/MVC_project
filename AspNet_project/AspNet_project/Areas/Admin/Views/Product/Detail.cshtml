@@ -5,11 +5,6 @@
         <h4>Category : @Model.Id </h4>
         <h4>Title : @Model.Title </h4>
         <h4>CategoryName : @Model.CategoryName </h4>
-        @foreach (var item in Model.ProductTypes)
-
-        {
-            <h4>Type : @item.TypeModel.Name </h4>
-        }
         <h4>Info : @Model.Info </h4>
         <h4>MoreInfo : @Model.MoreInfo </h4>
         <h4>Price : @Model.Price </h4>
@@ -21,7 +16,7 @@
     {
         @foreach (var item in Model.Images)
         {
-            <img src="~/assets/img/@item.Image" style="width:300px;height:200px; @(item.IsMain ? "border:5px solid yellow":"")" alt="image">
+            <img src="~/assets/img/@item.Image" style="width:300px;height:200px; @(item.IsMain ? "border:5px solid yellow" : "")" alt="image">
         }
     }
     else

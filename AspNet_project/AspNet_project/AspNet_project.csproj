@@ -39,6 +39,7 @@
     <Folder Include="Mapping\" />
     <Folder Include="Areas\Admin\Views\Product\" />
     <Folder Include="wwwroot\templates\" />
+    <Folder Include="Views\Cart\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -88,6 +89,7 @@
     <None Remove="ViewModels\Admin\Product\" />
     <None Remove="Mapping\" />
     <None Remove="Areas\Admin\Views\Product\" />
+    <None Remove="Views\Cart\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\admin\" />

@@ -112,10 +112,16 @@
                         </a>
                     </div>
                 </button>
-                <button class="btn btn-danger shopping-button">
-                    <i class="fa-solid fa-cart-shopping"></i>
-                    <span class="shopping-text">Cart: @Model.BasketCount items - $0.00</span>
-                </button>
+                <a asp-controller="Cart" asp-action="Index">
+                    <button class="btn btn-danger shopping-button">
+                        <i class="fa-solid fa-cart-shopping"></i>
+                        <span class="shopping-text">
+                            Cart: <span id="cart-item-count">@Model.BasketCount</span> items
+                        </span>
+                        <span>- $<span id="cart-total-price">@Model.TotalPrice.ToString("F2")</span></span>
+                    </button>
+                </a>
+
             </div>
         </div>
     </nav>
@@ -327,5 +333,4 @@
         </div>
     </section>
 </header>
-
 
