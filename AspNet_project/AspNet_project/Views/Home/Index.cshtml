@@ -264,7 +264,11 @@
                             <div class="card-bottom p-2">
                                 <div class="row">
                                     <div class="col-4">
+                                        @*<form asp-controller="Home" asp-action="AddProductToBasket" asp-route-id="@item.Id" method="post">
+            <button type="submit" data-id="@item.Id" class="card-button add-to-basket ">add to cart</button>
+        </form>*@
                                         <button data-id="@item.Id" class="card-button add-to-basket ">add to cart</button>
+
                                     </div>
                                     <div class="col-8 align-items-center">
                                         <span class="card-description">

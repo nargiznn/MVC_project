@@ -1,53 +1,43 @@
 ﻿<Properties StartupConfiguration="{153EF14A-B666-4470-9A0D-1D5BAC251F7B}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AspNet_project">
             <Node name="AspNet_project">
-              <Node name="Areas">
-                <Node name="Admin">
-                  <Node name="Controllers" expanded="True" />
-                  <Node name="Views">
-                    <Node name="Product" expanded="True" />
-                    <Node name="Shared" expanded="True" />
-                    <Node name="Slider" expanded="True" />
-                    <Node name="SliderWord" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="Contollers" expanded="True" />
-              <Node name="Mapping" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Product.cs" selected="True" />
-              </Node>
-              <Node name="Services" expanded="True">
-                <Node name="Interfaces" expanded="True" />
-              </Node>
-              <Node name="ViewModels" expanded="True">
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="ViewModels">
                 <Node name="Admin" expanded="True">
                   <Node name="Product" expanded="True" />
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="admin" expanded="True">
-                  <Node name="assets" expanded="True">
-                    <Node name="css" expanded="True" />
+              <Node name="Views">
+                <Node name="Shared">
+                  <Node name="Components">
+                    <Node name="Footer" expanded="True" />
                   </Node>
                 </Node>
-                <Node name="assets" expanded="True" />
               </Node>
+              <Node name="wwwroot">
+                <Node name="assets">
+                  <Node name="js">
+                    <Node name="home.js" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="templates" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

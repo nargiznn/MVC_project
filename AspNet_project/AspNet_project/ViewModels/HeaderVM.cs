@@ -7,8 +7,9 @@ namespace AspNet_project.ViewModels
 	{
         public string FullName { get; set; }
         public List<Category> Categories { get; set; }
-        public int BasketCount { get; set; }
+
         public Dictionary<string, string> Settings { get; set; }
+        public int BasketCount { get; set; }
     }
 }
 

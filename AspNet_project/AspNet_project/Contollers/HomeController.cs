@@ -21,6 +21,7 @@ namespace AspNet_project.Controllers
 
         public async Task<IActionResult> Index()
         {
+
             return View(new HomeVM
             {
 
@@ -38,6 +39,7 @@ namespace AspNet_project.Controllers
                     .ToListAsync()
             });;
         }
+
         [HttpPost]
         public async Task<IActionResult> AddProductToBasket(int id)
         {
