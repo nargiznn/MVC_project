@@ -11,8 +11,8 @@ namespace AspNet_project.Models
         public double DiscountPrice { get; set; }
         public int? CategoryId { get; set; }
         public Category Category { get; set; }
-        public List<ProductImage> ProductImages { get; set; }
-        public List<ProductType> ProductTypes { get; set; }
+        public ICollection<ProductImage> ProductImages { get; set; }
+        public ICollection<ProductType> ProductTypes { get; set; }
 
     }
 }

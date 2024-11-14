@@ -143,3 +143,11 @@ C:/Users/nargizzn/Desktop/Project/AspNet_project/AspNet_project/obj/Debug/net6.0
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/AspNet_project.genruntimeconfig.cache
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/ref/AspNet_project.dll
 /Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/obj/Debug/net6.0/AspNet_project.csproj.CopyComplete
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/AutoMapper.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/MailKit.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/MimeKit.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/System.Formats.Asn1.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/System.Security.Cryptography.Pkcs.dll
+/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll

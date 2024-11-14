@@ -1,5 +1,6 @@
 ﻿using AspNet_project.Data;
 using AspNet_project.Models;
+using Newtonsoft.Json;
 using AspNet_project.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -10,9 +11,12 @@ namespace AspNet_project.Controllers
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;
-        public HomeController(AppDbContext context)
+        private readonly IHttpContextAccessor _httpContext;
+        public HomeController(AppDbContext context,
+            IHttpContextAccessor httpContext)
         {
             _context = context;
+            _httpContext = httpContext;
         }
 
         public async Task<IActionResult> Index()
@@ -33,6 +37,39 @@ namespace AspNet_project.Controllers
                     .Include(a => a.AccessoryCategories)
                     .ToListAsync()
             });;
+        }
+        [HttpPost]
+        public async Task<IActionResult> AddProductToBasket(int id)
+        {
+            List<BasketVM> basket;
+
+            if (_httpContext.HttpContext.Request.Cookies["basket"] != null)
+            {
+                basket = JsonConvert.DeserializeObject<List<BasketVM>>(_httpContext.HttpContext.Request.Cookies["basket"]);
+            }
+            else
+            {
+                basket = new List<BasketVM>();
+            }
+
+            var existBasketData = basket.FirstOrDefault(m => m.ProductId == id);
+
+            if (existBasketData is null)
+            {
+                basket.Add(new BasketVM
+                {
+                    ProductId = id,
+                    ProductCount = 1
+                });
+            }
+            else
+            {
+                existBasketData.ProductCount++;
+            }
+
+            _httpContext.HttpContext.Response.Cookies.Append("basket", JsonConvert.SerializeObject(basket));
+
+            return Ok(basket.Sum(m => m.ProductCount));
         }
 
     }

@@ -1,0 +1,21 @@
+﻿@model Setting
+
+<div class="container mt-5">
+    <h3 class="text-center">Create New Setting </h3>
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label for="Title">Key</label>
+            <input type="text" asp-for="Key" class="form-control mt-2" placeholder="Enter key">
+            <span asp-validation-for="Key" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="MainText">Value</label>
+            <textarea asp-for="Value" class="form-control mt-2" rows="4" placeholder="Enter main text"></textarea>
+            <span asp-validation-for="Value" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3">Submit</button>
+        <a asp-action="Index" class="btn btn-primary mt-3">Cancel</a>
+    </form>
+</div>

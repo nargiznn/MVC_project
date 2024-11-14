@@ -12,7 +12,7 @@
                     <th>Title</th>
                     <th>Main Text</th>
                     <th>Subtitle</th>
-                    <th>Options</th>
+                    <th style="max-width: 200px;">Options</th>
                 </tr>
             </thead>
             <tbody>
@@ -25,8 +25,6 @@
                         <td class="text-center">
                             <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm mr-1">Detail</a>
                             <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-secondary btn-sm mr-1">Edit</a>
-
-                            <!-- Conditionally disable delete for main slider -->
                             @if (!item.IsMain)
                             {
                                 <form asp-action="Delete" asp-route-id="@item.Id" method="post" class="d-inline">

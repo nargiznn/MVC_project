@@ -34,6 +34,11 @@
     <Folder Include="ViewModels\Admin\" />
     <Folder Include="ViewModels\Admin\Slider\" />
     <Folder Include="Areas\Admin\Views\SliderWord\" />
+    <Folder Include="Areas\Admin\Views\Setting\" />
+    <Folder Include="ViewModels\Admin\Product\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Areas\Admin\Views\Product\" />
+    <Folder Include="wwwroot\templates\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -48,6 +53,9 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="MailKit" Version="4.8.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -76,8 +84,13 @@
     <None Remove="ViewModels\Admin\" />
     <None Remove="ViewModels\Admin\Slider\" />
     <None Remove="Areas\Admin\Views\SliderWord\" />
+    <None Remove="Areas\Admin\Views\Setting\" />
+    <None Remove="ViewModels\Admin\Product\" />
+    <None Remove="Mapping\" />
+    <None Remove="Areas\Admin\Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\admin\" />
+    <Content Remove="wwwroot\templates\" />
   </ItemGroup>
 </Project>

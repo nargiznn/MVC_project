@@ -6,9 +6,14 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using AspNet_project.Helpers.Enums;
 using AspNet_project.Models;
+using AspNet_project.Services.Interfaces;
 using AspNet_project.ViewModels.Account;
+using MailKit.Net.Smtp;
+using MailKit.Security;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using MimeKit;
+using MimeKit.Text;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -20,14 +25,17 @@ namespace AspNet_project.Contollers
         private readonly UserManager<AppUser> _userManager;
         private readonly SignInManager<AppUser> _signInManager;
         private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly IEmailService _emailService;
 
         public AccountController(UserManager<AppUser> userManager,
                                SignInManager<AppUser> signInManager,
-                               RoleManager<IdentityRole> roleManager)
+                               RoleManager<IdentityRole> roleManager,
+                               IEmailService emailService)
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _roleManager = roleManager;
+            _emailService = emailService;
         }
         [HttpGet]
         public IActionResult Register()
@@ -65,8 +73,41 @@ namespace AspNet_project.Contollers
             await _userManager.AddClaimsAsync(user, claims);
             await _userManager.AddToRoleAsync(user, Roles.Member.ToString());
 
+            string token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
+            string url = Url.Action("ConfirmEmail", "Account", new { userId = user.Id , token},Request.Scheme,Request.Host.ToString());
+            string subject = "Register confire email";
+
+            string html = string.Empty;
+            using(StreamReader reader = new("wwwroot/templates/verfication.html"))
+            {
+                html = reader.ReadToEnd();
+
+            }
+            html = html.Replace("{{confirm-link}}", url);
+            _emailService.Send(user.Email, subject, html);
+
+
+
+
+
+
+
+
+
+            return RedirectToAction(nameof(VerifyEmail));
+        }
+        [HttpGet]
+        public async Task<ActionResult> ConfirmEmail(string userId,string token)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+            await _userManager.ConfirmEmailAsync(user, token);
             await _signInManager.SignInAsync(user, false);
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index","Home");
+        }
+        [HttpGet]
+        public IActionResult VerifyEmail()
+        {
+            return View();
         }
 
         [HttpPost]

@@ -1,5 +1,21 @@
 ﻿@model Category
+
 <div class="container mt-5">
-    <h1>@Model.Name</h1>
+    <h1>@Model.Id : @Model.Name</h1>
     <a asp-action="Index" class="btn btn-primary mt-5">Back</a>
+
+    <h3>Products under this category:</h3>
+    @if (Model.Products != null && Model.Products.Any())
+    {
+        <ul>
+            @foreach (var product in Model.Products)
+            {
+                <li>@product.Title - @product.Price</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No products under this category.</p>
+    }
 </div>

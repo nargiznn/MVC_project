@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cDgO0qx7bRz9GW69EeKQ/OKYFF8th2U0PIyB3RGIxzY=",
+  "Hash": "3druNZcgXWkfeir+MDX5Q7zFcx8oSh4Okhte+WaHcdw=",
   "Source": "AspNet_project",
   "BasePath": "_content/AspNet_project",
   "Mode": "Default",
@@ -6951,6 +6951,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/js/shop.js"
+    },
+    {
+      "Identity": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/templates/verfication.html",
+      "SourceId": "AspNet_project",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nergiznadirli/Desktop/MVC_project/AspNet_project/AspNet_project/wwwroot/",
+      "BasePath": "_content/AspNet_project",
+      "RelativePath": "templates/verfication.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/templates/verfication.html"
     }
   ]
 }

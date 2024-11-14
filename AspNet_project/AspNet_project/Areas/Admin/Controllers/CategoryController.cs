@@ -33,11 +33,14 @@ namespace AspNet_project.Areas.Admin.Controllers
         {
             if (id is null) return BadRequest();
 
-            Category category = await _context.Categories.FirstOrDefaultAsync(m => m.Id == id);
+            Category category = await _context.Categories
+                                              .Include(c => c.Products) 
+                                              .FirstOrDefaultAsync(m => m.Id == id);
 
             if (category is null) return NotFound();
 
             return View(category);
+          
         }
 
 
@@ -76,10 +79,23 @@ namespace AspNet_project.Areas.Admin.Controllers
             {
                 return NotFound();
             }
+
+            var productsToUpdate = await _context.Products
+                                                  .Where(p => p.CategoryId == id)
+                                                  .ToListAsync();
+
+            foreach (var product in productsToUpdate)
+            {
+                product.CategoryId = null; 
+            }
+
             try
             {
+                _context.Products.UpdateRange(productsToUpdate);
+                await _context.SaveChangesAsync();
                 _context.Categories.Remove(category);
                 await _context.SaveChangesAsync();
+
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
@@ -88,6 +104,7 @@ namespace AspNet_project.Areas.Admin.Controllers
                 return RedirectToAction(nameof(Index));
             }
         }
+
 
 
 
