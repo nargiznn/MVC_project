@@ -14,6 +14,7 @@ namespace AspNet_project.Models
         public ICollection<ProductImage> ProductImages { get; set; }
         public ICollection<ProductType> ProductTypes { get; set; }
 
+
     }
 }
 

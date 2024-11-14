@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{153EF14A-B666-4470-9A0D-1D5BAC251F7B}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.AspNet__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -11,24 +11,40 @@
         <State name="__root__">
           <Node name="AspNet_project">
             <Node name="AspNet_project">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Product" expanded="True" />
+                    <Node name="Slider" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Mapping" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
               <Node name="ViewComponents" expanded="True" />
               <Node name="ViewModels">
                 <Node name="Admin" expanded="True">
                   <Node name="Product" expanded="True" />
+                  <Node name="Slider" expanded="True" />
                 </Node>
               </Node>
               <Node name="Views">
+                <Node name="Cart" expanded="True" />
                 <Node name="Shared">
                   <Node name="Components">
-                    <Node name="Footer" expanded="True" />
+                    <Node name="Header">
+                      <Node name="Default.cshtml" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
               </Node>
-              <Node name="wwwroot">
-                <Node name="assets">
-                  <Node name="js">
-                    <Node name="home.js" selected="True" />
-                  </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True">
+                  <Node name="css" expanded="True" />
+                  <Node name="js" expanded="True" />
                 </Node>
                 <Node name="templates" expanded="True" />
               </Node>
