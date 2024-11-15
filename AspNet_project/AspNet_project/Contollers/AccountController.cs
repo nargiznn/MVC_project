@@ -10,6 +10,7 @@ using AspNet_project.Services.Interfaces;
 using AspNet_project.ViewModels.Account;
 using MailKit.Net.Smtp;
 using MailKit.Security;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MimeKit;
@@ -86,14 +87,6 @@ namespace AspNet_project.Contollers
             html = html.Replace("{{confirm-link}}", url);
             _emailService.Send(user.Email, subject, html);
 
-
-
-
-
-
-
-
-
             return RedirectToAction(nameof(VerifyEmail));
         }
         [HttpGet]
@@ -146,6 +139,8 @@ namespace AspNet_project.Contollers
             }
             return RedirectToAction("Index", "Home");
         }
+
+
         //[HttpGet]
         //public async Task<IActionResult> CreateRoles()
         //{

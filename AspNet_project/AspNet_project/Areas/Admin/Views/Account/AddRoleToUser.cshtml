@@ -1,0 +1,20 @@
+﻿@model UserRoleVM
+
+
+<div class="container mt-5">
+    <h1>Add Role To User</h1>
+
+    <form method="post" asp-action="AddRoleToUser">
+
+
+        <label asp-for="UserId">Users</label>
+        <select asp-for="UserId" asp-items="@ViewBag.users" class="form-control"></select>
+
+        <label asp-for="RoleId">Roles</label>
+        <select asp-for="RoleId" asp-items="@ViewBag.roles " class="form-control"></select>
+
+
+        <button type="submit" class="btn btn-success mr-2 mt-4">Submit</button>
+        <a asp-action="Index" class="btn btn-primary mx-3 mt-4">Cancel</a>
+    </form>
+</div>

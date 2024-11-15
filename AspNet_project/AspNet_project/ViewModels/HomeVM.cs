@@ -6,6 +6,7 @@ namespace AspNet_project.ViewModels
 	public class HomeVM
 	{
         public List<Product> Products { get; set; }
+        public List<Product> NewProducts { get; set; }
         public List<ProductImage> ProductImages { get; set; }
         public List<Slider> Sliders { get; set; }
         public SliderWords SliderWords { get; set; }

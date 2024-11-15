@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AspNet_project.Data;
+using AspNet_project.Helpers.Enums;
 using AspNet_project.Models;
 using AspNet_project.Services.Interfaces;
 using AspNet_project.ViewModels.Admin.Slider;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +16,7 @@ using Microsoft.EntityFrameworkCore;
 namespace AspNet_project.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "SuperAdmin,Admin")]
     public class SliderWordController : Controller
     {
         private readonly AppDbContext _context;

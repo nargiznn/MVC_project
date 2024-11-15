@@ -3,40 +3,101 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AspNet_project.Services.Interfaces;
-using Microsoft.AspNetCore.Cors.Infrastructure;
+using AspNet_project.ViewModels.Admin.Product;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using Microsoft.AspNetCore.Http;
+using AspNet_project.Helpers.Enums;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AspNet_project.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "SuperAdmin,Admin")]
     public class ProductController : Controller
     {
         private readonly IProductService _productService;
 
-        public ProductController(IProductService workService)
+        public ProductController(IProductService productService)
         {
-            _productService = workService;
+            _productService = productService;
         }
 
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            return View(await _productService.GetAllAsync());
+            var products = await _productService.GetAllAsync();
+            return View(products);
         }
 
         [HttpGet]
         public async Task<IActionResult> Detail(int? id)
         {
-            if (id is null) return BadRequest();
+            if (id == null)
+                return BadRequest();
 
-            var work = await _productService.GetByIdAsync((int)id);
+            var product = await _productService.GetByIdAsync((int)id);
+            if (product == null)
+                return NotFound();
 
-            if (work is null) return NotFound();
-
-            return View(work);
+            return View(product);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Create()
+        {
+            var model = new ProductVM();
+            ViewBag.Categories = await _productService.GetCategoriesAsync();
+
+            return View(model);
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(ProductVM model, List<IFormFile> productPhotos)
+        {
+            if (ModelState.IsValid)
+            {
+                if (model.CategoryId == 0)
+                {
+                    ModelState.AddModelError("CategoryId", "Category is required");
+                    ViewBag.Categories = await _productService.GetCategoriesAsync();
+                    return View(model);
+                }
+                await _productService.CreateAsync(model, productPhotos);
+                return RedirectToAction(nameof(Index));
+            }
+
+            ViewBag.Categories = await _productService.GetCategoriesAsync();
+            return View(model);
+        }
+
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            var product = await _productService.GetByIdAsync(id);
+            if (product == null)
+                return NotFound();
+
+            ViewBag.Categories = await _productService.GetCategoriesAsync();
+            return View(product);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, ProductVM model, List<IFormFile> productPhotos)
+        {
+            if (id != model.Id)
+                return BadRequest();
+
+            if (ModelState.IsValid)
+            {
+                await _productService.UpdateAsync(model, productPhotos);
+                return RedirectToAction(nameof(Index));
+            }
+
+            ViewBag.Categories = await _productService.GetCategoriesAsync();
+            return View(model);
+        }
+
     }
 }
-

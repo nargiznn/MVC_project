@@ -4,6 +4,7 @@ using AspNet_project.ViewModels;
 using AspNet_project.ViewModels.Admin.Product;
 using AspNet_project.ViewModels.Admin.Slider;
 using AutoMapper;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace AspNet_project.Mapping
 {
@@ -23,6 +24,12 @@ namespace AspNet_project.Mapping
                             Image = pi.Image,
                             IsMain = pi.IsMain
                         }).ToList()));
+            CreateMap<ProductVM, Product>()
+        .ForMember(dest => dest.CategoryId, opt => opt.MapFrom(src => src.CategoryId))
+        .ForMember(dest => dest.ProductImages, opt => opt.MapFrom(src => src.ImagePaths));
+
+            CreateMap<ProductImageVM, ProductImage>();
+
         }
     }
 }

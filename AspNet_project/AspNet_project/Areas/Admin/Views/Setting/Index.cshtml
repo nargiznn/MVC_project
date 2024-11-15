@@ -1,9 +1,6 @@
 ﻿@model IEnumerable<AspNet_project.Models.Setting>
 <div class="container mt-5">
     <h1 class="text-center">Settings</h1>
-    <div class="text-right mb-3">
-        <a asp-action="Create" class="btn btn-success">Create New Setting</a>
-    </div>
     <div class="table-responsive pt-3">
         <table class="table table-bordered table-hover">
             <thead class="thead-light text-center">
@@ -22,9 +19,7 @@
                         <td class="text-center">
                             <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm mr-1">Detail</a>
                             <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-secondary btn-sm mr-1">Edit</a>
-                            <form asp-action="Delete" asp-route-id="@item.Id" method="post" class="d-inline">
-                                <button type="submit" class="btn btn-outline-danger " onclick="return confirm('Are you sure you want to delete this image?');">Delete</button>
-                            </form>
+                  
                         </td>
 
                     </tr>

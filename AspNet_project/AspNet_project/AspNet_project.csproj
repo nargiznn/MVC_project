@@ -40,6 +40,7 @@
     <Folder Include="Areas\Admin\Views\Product\" />
     <Folder Include="wwwroot\templates\" />
     <Folder Include="Views\Cart\" />
+    <Folder Include="Areas\Admin\Views\Account\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -90,6 +91,7 @@
     <None Remove="Mapping\" />
     <None Remove="Areas\Admin\Views\Product\" />
     <None Remove="Views\Cart\" />
+    <None Remove="Areas\Admin\Views\Account\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\admin\" />

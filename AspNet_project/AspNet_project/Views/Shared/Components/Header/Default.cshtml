@@ -323,14 +323,24 @@
                 </div>
             </div>
             <div class="search-bar d-flex">
-                <input type="text" class=" search-input p-1" placeholder="Search...">
-
-                <i class="fa-solid fa-magnifying-glass position-absolute">
-
-                </i>
+                <input type="text" class="search-input p-1" id="searchQuery" placeholder="Search..." value="@ViewData["SearchQuery"]"
+                       onkeyup="checkEnter(event)" />
+                <i class="fa-solid fa-magnifying-glass position-absolute" onclick="performSearch()"></i>
 
             </div>
         </div>
     </section>
 </header>
+
+<script>function performSearch() {
+        const searchQuery = document.getElementById('searchQuery').value;
+        const url = ⁠ /Home/Index?search=${encodeURIComponent(searchQuery)} ⁠;
+        window.location.href = url;
+    }
+
+    function checkEnter(event) {
+        if (event.key === "Enter") {
+            performSearch();
+        }
+    }</script>
 

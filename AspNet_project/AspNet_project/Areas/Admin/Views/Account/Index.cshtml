@@ -1,0 +1,48 @@
+﻿@model List<UserVM>
+
+<div class="container-fluid px-4">
+    <h1 class="mt-4">User</h1>
+    <div class="card mt-3">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table id="basic-datatables"
+                       class="display table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>FullName</th>
+                            <th>Email</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                                <td>
+                                    @item.FullName
+                                </td>
+
+                                <td>
+                                    @item.Email
+
+                                </td>
+                                <td>
+                                    @if (User.IsInRole("SuperAdmin"))
+                                    {
+                                        <a asp-action="AddRoleToUser" class="btn btn-success">Add role to user</a>
+                                        <a asp-action="RemoveRoleFromUser" class="btn btn-danger">Remove role from user</a>
+
+                                    }
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>

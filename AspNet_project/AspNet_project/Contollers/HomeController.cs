@@ -20,25 +20,25 @@ namespace AspNet_project.Controllers
             _httpContext = httpContext;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? search)
         {
-
             return View(new HomeVM
             {
-
-                Products =await _context.Products.Include(m=>m.ProductImages).ToListAsync(),
-                ProductImages=await _context.ProductImages.ToListAsync(),
-                Sliders = await _context.Sliders.OrderByDescending(m=>m.Id).ToListAsync(),
-                SliderWords = await _context.SliderWords.FirstOrDefaultAsync(m=>m.IsMain),
+                Products = await _context.Products.Include(m => m.ProductImages).ToListAsync(),
+                NewProducts = await _context.Products
+                    .Where(x => !string.IsNullOrEmpty(search) ? x.Title.ToLower().Trim().Contains(search.ToLower().Trim()) : true).Include(m => m.ProductImages).ToListAsync(),
+                ProductImages = await _context.ProductImages.ToListAsync(),
+                Sliders = await _context.Sliders.OrderByDescending(m => m.Id).ToListAsync(),
+                SliderWords = await _context.SliderWords.FirstOrDefaultAsync(m => m.IsMain),
                 Adverts = await _context.Adverts.OrderByDescending(mn => mn.Id).ToListAsync(),
                 News = await _context.News.ToListAsync(),
                 Testimonials = await _context.Testimonials.ToListAsync(),
                 Brands = await _context.Brands.OrderByDescending(mn => mn.Id).ToListAsync(),
                 Accessories = await _context.Accessories
-                    .Where(a => a.AccessoryCategories.Any(ac => ac.AccessoryId == a.Id)) 
+                    .Where(a => a.AccessoryCategories.Any(ac => ac.AccessoryId == a.Id))
                     .Include(a => a.AccessoryCategories)
                     .ToListAsync()
-            });;
+            }); ;
         }
 
         [HttpPost]
